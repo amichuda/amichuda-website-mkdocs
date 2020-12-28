@@ -20,6 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: cd docs/cv
+      - run: ls
       - uses: docker://pandoc/core:2.11.1
         with:
           args: >-
