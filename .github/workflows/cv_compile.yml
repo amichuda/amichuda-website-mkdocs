@@ -28,8 +28,8 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Compile CV
         run: |
-          cd docs/amichuda-cv/
+          cd docs/cv/
           pwd
-          echo ${ls}
+          ls
           chmod +x codebraid-compile.sh
           ./codebraid-compile.sh
