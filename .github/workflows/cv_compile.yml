@@ -29,5 +29,5 @@ jobs:
       - name: Run a multi-line script
         run: |
           cd docs/amichuda-cv/
-          chmod +x codebraid_compile.sh
-          ./codebraid_compile.sh
+          chmod +x codebraid-compile.sh
+          ./codebraid-compile.sh
