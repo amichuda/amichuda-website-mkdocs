@@ -30,6 +30,6 @@ jobs:
         run: |
           cd docs/amichuda-cv/
           pwd
-          ls
+          echo ${ls}
           chmod +x codebraid-compile.sh
           ./codebraid-compile.sh
