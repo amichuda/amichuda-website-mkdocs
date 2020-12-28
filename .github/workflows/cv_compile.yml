@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CV Compile
+name: CV Compile Workflow
 
 # Controls when the action will run. 
 on:
@@ -11,7 +11,7 @@ on:
     branches: [ master ]
 
   # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch: true
+  workflow_dispatch: 
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -23,11 +23,13 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: amichuda/amichuda-website-mkdocs@master
+      - uses: actions/checkout@v2
 
       # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+      - name: Compile CV
         run: |
           cd docs/amichuda-cv/
-          chmod +x codebraid_compile.sh
-          ./codebraid_compile.sh
+          pwd
+          echo ${ls}
+          chmod +x codebraid-compile.sh
+          ./codebraid-compile.sh
