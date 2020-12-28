@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CV Compile Worflow
+name: CV Compile Workflow
 
 # Controls when the action will run. 
 on:
@@ -28,7 +28,8 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Compile CV
         run: |
-          pwd
           cd docs/amichuda-cv/
+          pwd
+          ls
           chmod +x codebraid-compile.sh
           ./codebraid-compile.sh
