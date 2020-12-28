@@ -22,7 +22,7 @@ jobs:
       - run: cd docs/cv
       - uses: docker://pandoc/core:2.11.1
         with:
-          args: |
+          args: |>
             --from=markdown+raw_attribute
             --to=latex
             --output=aleksandr_michuda_cv.pdf
