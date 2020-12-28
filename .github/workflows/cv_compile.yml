@@ -15,21 +15,16 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  convert_via_pandoc:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-
-      # Runs a set of commands using the runners shell
-      - name: Compile CV
-        run: |
-          cd docs/amichuda-cv/
-          pwd
-          echo ${ls}
-          chmod +x codebraid-compile.sh
-          ./codebraid-compile.sh
+      - run: cd docs/cv
+      - uses: docker://pandoc/core:2.11.1
+        with:
+          args: |
+            --from=markdown+raw_attribute
+            --to=latex
+            --output=aleksandr_michuda_cv.pdf
+            --include-in-header=template.tex
+            cv.md
