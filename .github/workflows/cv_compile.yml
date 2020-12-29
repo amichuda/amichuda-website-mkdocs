@@ -20,7 +20,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Convert with pandoc
-        uses: docker://amichuda/pandoc-latex-extra
+        uses: docker://amichuda/pandoc-latex-extra:latest
         with:
           args: >-
             --from=markdown+raw_attribute
