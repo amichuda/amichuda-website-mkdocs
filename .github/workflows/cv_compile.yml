@@ -42,7 +42,7 @@ jobs:
       - name: Download Artifact
         uses: actions/download-artifact@v2
         with: 
-          name: pandoc_docker_with_extra_latex
+          name: pandoc_with_latex_extra
           path: /tmp
       - name: Convert with pandoc
         uses: docker://tmp/pandoc_with_latex_extra
