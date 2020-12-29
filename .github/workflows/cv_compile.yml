@@ -32,7 +32,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: pandoc_with_latex_extra
-          path: dest=/tmp/pandoc_with_latex_extra.tar
+          path: /tmp/pandoc_with_latex_extra.tar
   convert_via_pandoc:
     runs-on: ubuntu-latest
     needs: pandoc_docker_with_extra_latex
