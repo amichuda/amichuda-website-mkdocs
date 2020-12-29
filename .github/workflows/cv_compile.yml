@@ -47,7 +47,7 @@ jobs:
           name: pandoc_with_latex_extra.tar
           path: /tmp
       - name: Convert with pandoc
-        uses: docker://tmp/pandoc_with_latex_extra
+        uses: docker://tmp/pandoc_with_latex_extra.tar
         with:
           args: >-
             --from=markdown+raw_attribute
