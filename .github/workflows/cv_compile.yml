@@ -28,3 +28,13 @@ jobs:
             --output=docs/cv/aleksandr_michuda_cv.pdf
             --include-in-header=docs/cv/template.tex
             docs/cv/cv.md
+      - name: setup git config
+        run: |
+          git config user.name "CV PDF Bot"
+          git config user.email "<>"
+      - name: Commit to master
+        run: |
+          git add docs/cv/aleksandr_michuda_cv.pdf
+          git commit -m "Compiled CV"
+          git push origin master
+          
