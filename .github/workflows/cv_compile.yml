@@ -14,12 +14,17 @@ on:
   workflow_dispatch: 
 
 jobs:
+  pandoc_docker_with_extra_latex:
+    steps:
+      - uses: actions/checkout@v2
+      - name: Modified Pandoc Docker File
+        uses: docker build . --file Dockerfile --tag pandoc_with_latex_extra
   convert_via_pandoc:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - run: ls
-      - uses: docker://pandoc/latex:2.11.1
+      - uses: docker://pandoc_with_latex_extra
         with:
           args: >-
             --from=markdown+raw_attribute
