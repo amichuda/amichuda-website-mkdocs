@@ -15,16 +15,37 @@ on:
 
 jobs:
   pandoc_docker_with_extra_latex:
-    steps:
-      - uses: actions/checkout@v2
-      - name: Modified Pandoc Docker File
-        uses: docker build . --file Dockerfile --tag pandoc_with_latex_extra
-  convert_via_pandoc:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - run: ls
-      - uses: docker://pandoc_with_latex_extra
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v1
+      - name: Build Modified Pandoc Docker File
+        uses: docker/build-push-action@v2
+        with:
+          context:
+          file: ./Dockerfile
+          tags: pandoc_with_latex_extra:latest
+          outputs: type=docker,dest=/tmp/pandoc_with_latex_extra.tar
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: pandoc_docker_with_extra_latex
+          path: dest=/tmp/pandoc_with_latex_extra.tar
+  convert_via_pandoc:
+    runs-on: ubuntu-latest
+    needs: pandoc_docker_with_extra_latex
+    steps:
+      - name: Setup Docker Buildx
+        uses: docker/setup-buildx-action@v1
+      - name: Download Artifact
+        uses: actions/download-artifact@v2
+        with: 
+          name: pandoc_docker_with_extra_latex
+          path: /tmp
+      - name: Convert with pandoc
+        uses: docker://tmp/pandoc_with_latex_extra
         with:
           args: >-
             --from=markdown+raw_attribute
