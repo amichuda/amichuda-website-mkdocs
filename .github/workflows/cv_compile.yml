@@ -19,13 +19,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: cd docs/cv
       - run: ls
       - uses: docker://pandoc/latex:2.11.1
         with:
           args: >-
             --from=markdown+raw_attribute
             --to=latex
-            --output=aleksandr_michuda_cv.pdf
-            --include-in-header=template.tex
-            cv.md
+            --output=docs/cv/aleksandr_michuda_cv.pdf
+            --include-in-header=docs/cv/template.tex
+            docs/cv/cv.md
