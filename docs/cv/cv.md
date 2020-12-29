@@ -6,7 +6,7 @@ classoption:
 
 # Aleksandr Michuda
 
-**Address**: 602 Adams st. Apt. 18, Davis, CA 95616 sksksksksks
+**Address**: 602 Adams st. Apt. 18, Davis, CA 95616 
 
 **Phone**: 718-564-9741
 
