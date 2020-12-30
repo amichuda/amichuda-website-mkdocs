@@ -11,7 +11,8 @@ nav:
     - experience.md
   - Transparency and Reproducibility: 
     - bitss.md
-  
+  - Teaching:
+    - teaching/teaching.md
 
 extra_css:
   - stylesheets/extra.css
