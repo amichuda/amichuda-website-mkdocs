@@ -65,5 +65,5 @@ jobs:
           pip install wheel
           pip install mkdocs mkdocs-material
       - name: gh-deploy
-        run: cd amichuda.github.io && mkdocs gh-deploy --force --config-file ../amichuda-website-mkdocs/mkdocs.yml --remote-branch master
+        run: cd amichuda.github.io && mkdocs gh-deploy --config-file ../amichuda-website-mkdocs/mkdocs.yml --remote-branch master
           
