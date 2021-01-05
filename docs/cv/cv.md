@@ -67,6 +67,8 @@ Ethnic/Regional Identity and Voting in Uganda - *With Samuel S. Bird*
 
 The Russian Mir - *With Jonathan Conning*
 
+[Michuda, Aleksandr, Rachael E. Goodhue, Krishna V. Subbarao, and Daniel Chellemi. "Evaluating a Systems Approach to Suppressive Crop Rotations in Strawberry Production." (2019).](https://ageconsearch.umn.edu/record/291173/files/291173.pdf)
+
 # Publications 
 
 ## Development Economics
@@ -78,6 +80,11 @@ The Russian Mir - *With Jonathan Conning*
 [Cabanillas, Oscar Barriga, Jeffrey D. Michler, Aleksandr Michuda, and Emilia Tjernström. "Fitting and interpreting correlated random-coefficient models using Stata." Stata Journal 18, no. 1 (2018): 159-173.](https://journals.sagepub.com/doi/abs/10.1177/1536867X1801800109)
 
 ## Specialty Crops
+
+Michuda, Aleksandr, Rachael Goodhue, Mark Hoffmann, and Steven Fennimore. "Predicting net returns of organic and conventional strawberry
+following soil disinfestation with steam or steam plus additives"
+
+*Agronomy: Precision and Digital Agriculture forthcoming*
 
 [Michuda, Aleksandr, Rachael Goodhue, Karen Klonsky, Graeme Baird, Lucinda Toyama, Margherita Zavatta, Joji Muramoto, and Carol Shennan. "The economic viability of suppressive crop rotations for the control of verticillium wilt in organic strawberry production." Agroecology and Sustainable Food Systems 43, no. 9 (2019): 984-1008.](https://www.tandfonline.com/doi/full/10.1080/21683565.2018.1552228?casa_token=uUSSMSYYz8kAAAAA%3Ak9RAJxZUEeAcikUZH9G-o5hGAd21QvhnQVWkPpecl--ZYyfr0R10XscXW60Ohs4KF7S5S2Pa_HFp)
 
