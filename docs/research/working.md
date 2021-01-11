@@ -11,9 +11,12 @@
 
 [PDF](https://emiliatjernstrom.com/files/TGBLMM2020.pdf){: .md-button .md-button--primary}
 
-### Ethnic/Regional Identity and Voting in Uganda
+### Identity, Location, and Voting in Uganda
 
 *With Samuel S. Bird*
+
+??? abtract
+    This paper disentangles the effects of a voter's regional identity and their location of residence on their voting behavior. We estimate this effect by pairing voter registration data with election outcomes for polling stations throughout Uganda. We overcome the challenge of measuring identity by using a machine learning algorithm that exploits variation in ethnic and linguistic groups across regions of Uganda. In particular, we use the letter sequences in each individual voter's surname to predict their regional identity. We then use regional identity as the explanatory variable of interest in a regression model of support for the incumbent president in the 2016 general election. We identify our estimate of the regional identity effect with a model that controls for the sub-regional location of the polling station. Comparing results with and without location controls allows us to estimate the relative roles of regional identity itself and location-specific effects on observed voting behavior.
 
 ### The Russian Mir
 

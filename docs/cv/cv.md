@@ -63,7 +63,7 @@ used to buffer against adverse weather shocks
 
 [Tjernström, Emilia, Dalia Ghanem, Oscar Barriga Cabanillas, Travis J. Lybbert, Jeffrey D. Michler, and Aleksandr Michuda. "A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption."](https://emiliatjernstrom.com/files/TGBLMM2020.pdf)
 
-Ethnic/Regional Identity and Voting in Uganda - *With Samuel S. Bird*
+Identity, Location, and Voting in Uganda - *With Samuel S. Bird*
 
 The Russian Mir - *With Jonathan Conning*
 
@@ -82,7 +82,7 @@ The Russian Mir - *With Jonathan Conning*
 ## Specialty Crops
 
 Michuda, Aleksandr, Rachael Goodhue, Mark Hoffmann, and Steven Fennimore. "Predicting net returns of organic and conventional strawberry
-following soil disinfestation with steam or steam plus additives"
+following soil disinfestation wit h steam or steam plus additives"
 
 *Agronomy: Precision and Digital Agriculture forthcoming*
 
