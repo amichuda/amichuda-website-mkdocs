@@ -53,6 +53,7 @@ extra:
 markdown_extensions:
   - attr_list
   - admonition
+  - meta
   - pymdownx.details
   - toc:
       permalink: true

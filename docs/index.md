@@ -1,4 +1,9 @@
-![UC Davis](assets/images/jmp.jpeg){: width=300 align=left}
+---
+hide:
+  - navigation
+---
+
+![UC Davis](assets/images/jmp.jpeg){: width="50%" align=left}
 
 |                                                            |  
 |------------------------------------------------------------| 
