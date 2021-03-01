@@ -16,6 +16,8 @@ I'm a PhD Candidate in the [Agricultural and Resource Economics Department at UC
 
 My interests include development economics, transparency in social science and using machine learning to solve problems in development.
 
+**I am currently on the job market.**
+
 ## Education
 
 |    |                                           |         |
