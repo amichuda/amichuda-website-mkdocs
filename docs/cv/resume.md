@@ -18,7 +18,7 @@ classoption:
 
 # Professional Summary
 
-Economist with a passion for causal inference done rigorously and often in conjunction with machine learning predictions. Adaptable and able to work with team members with different perspectives. Experience with presenting technical results to non-technical audiences.
+Economist with a passion for causal inference done rigorously and in conjunction with machine learning predictions. Adaptable and able to work with team members with different perspectives. Experience with presenting technical results to non-technical audiences.
 
 # Education
 
@@ -43,11 +43,11 @@ Ukrainian: Basic Knowledge
 
 # Experience
 
-## Uber - Data Science Intern - Economics and Pricing 
+## Uber - Data Science Intern - Economics and Pricing
 
 - September 2019 - December 2019
 - Worked on causal inference in business facing team
-- Evaluated policies using regression discontinuity design
+- Evaluated policies using regression discontinuity design, difference-in-difference and treatment effects estimation
 - Generated spatial and dynamic visualizations of driver behavior using Python and SQL
 
 ## BITSS Catalyst- Berkeley Initiative for Transparency in the Social Sciences 
