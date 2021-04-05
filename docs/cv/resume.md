@@ -39,7 +39,7 @@ Ukrainian: Basic Knowledge
 
 # Experience
 
-## Uber - Data Science Internship - Economics and Pricing Sep
+## Uber - Data Science Internship - Economics and Pricing 
 
 - September 2019 - December 2019
 - Worked on causal inference in business facing team
