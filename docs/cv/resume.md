@@ -10,11 +10,15 @@ classoption:
 
 **Phone**: 718-564-9741
 
-**Email**: [amichuda@ucdavis.edu](mailto:amichuda@ucdavis.edu)
+**Email**: [\textcolor{blue}{amichuda@ucdavis.edu}](mailto:amichuda@ucdavis.edu)
+
+**Github**: [\textcolor{blue}{https://github.com/amichuda}](https://github.com/amichuda)
+
+**Personal Website**: [\textcolor{blue}{https://amichuda.github.io/}](https://amichuda.github.io/)
 
 # Professional Summary
 
-Economist with a passion for causal inference done rigorously and often in conjunction with machine learning prediction. Adaptable and able to work with team members with different perspectives. Experience with presenting technical econometric results to non-technical audiences.
+Economist with a passion for causal inference done rigorously and often in conjunction with machine learning predictions. Adaptable and able to work with team members with different perspectives. Experience with presenting technical results to non-technical audiences.
 
 # Education
 
@@ -24,6 +28,11 @@ Economist with a passion for causal inference done rigorously and often in conju
 |2014| B.A./M.A. Economics CUNY Hunter College| *summa cum laude*|
 |2014| B.A. Philosophy CUNY Hunter College    | *summa cum laude*|
 
+# Technical Skills
+
+- Python, Stata, LaTeX, R, Github, Bash
+- Causal Inference, Machine Learning Classification, Applied Econometrics
+
 # Languages and Skills
 
 English: Fluent
@@ -32,14 +41,9 @@ Russian: Fluent
 
 Ukrainian: Basic Knowledge
 
-# Technical Skills
-
-- Python, Stata, LaTeX, R, Github, Bash
-- Causal Inference, Machine Learning Classification, Applied Econometrics
-
 # Experience
 
-## Uber - Data Science Internship - Economics and Pricing 
+## Uber - Data Science Intern - Economics and Pricing 
 
 - September 2019 - December 2019
 - Worked on causal inference in business facing team
@@ -51,14 +55,14 @@ Ukrainian: Basic Knowledge
 - July 2017 - Present
 - Organized workshops that teach reproducibility and transparency in
     social sciences.
-- Taught Anonymization of data as well as replication techniques.
+- Taught anonymization of data as well as replication techniques.
 - Taught Jupyter Notebooks portion of dynamic documents (R Markdown,
     Jupyter Notebooks, Stata Markdown)
 
 ## Research Assistant (Optimal Nutritional Interventions across Space and Time)
 
 - Advisor: Stephen Vosti
-- Responsible for developing a python package that finds the optimal set of nutritional interventions across space and time
+- Responsible for developing a Python package that finds the optimal set of nutritional interventions across space and time
   - Using 24hr recall or household surveys
 - Estimated optimal interventions of effective coverage and lives saved in Cameroon
 - Developed dashboards for HKI (Hellen Keller International) to visualize Vitamin A intake in Kenya
