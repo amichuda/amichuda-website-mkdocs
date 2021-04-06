@@ -111,6 +111,13 @@ Python, Stata, LaTeX, R, Github, Bash
 
 # Experience
 
+## Uber - Data Science Intern - Economics and Pricing
+
+- September 2019 - December 2019
+- Worked on causal inference in business facing team
+- Evaluated policies using regression discontinuity design, difference-in-differences and treatment effect estimation
+- Generated spatial and dynamic visualizations of driver behavior using Python and SQL
+
 ## BITSS Catalyst- Berkeley Initiative for Transparency in the Social Sciences July 2017 - Present
 
 - Organized workshops that teach reproducibility and transparency in
