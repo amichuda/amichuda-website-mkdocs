@@ -81,10 +81,7 @@ The Russian Mir - *With Jonathan Conning*
 
 ## Specialty Crops
 
-Michuda, Aleksandr, Rachael Goodhue, Mark Hoffmann, and Steven Fennimore. "Predicting net returns of organic and conventional strawberry
-following soil disinfestation wit h steam or steam plus additives"
-
-*Agronomy: Precision and Digital Agriculture forthcoming*
+[Michuda, Aleksandr, Rachael E. Goodhue, Mark Hoffmann, and Steven A. Fennimore. "Predicting Net Returns of Organic and Conventional Strawberry Following Soil Disinfestation with Steam or Steam Plus Additives." Agronomy 11, no. 1 (2021): 149.](https://www.mdpi.com/2073-4395/11/1/149)
 
 [Michuda, Aleksandr, Rachael Goodhue, Karen Klonsky, Graeme Baird, Lucinda Toyama, Margherita Zavatta, Joji Muramoto, and Carol Shennan. "The economic viability of suppressive crop rotations for the control of verticillium wilt in organic strawberry production." Agroecology and Sustainable Food Systems 43, no. 9 (2019): 984-1008.](https://www.tandfonline.com/doi/full/10.1080/21683565.2018.1552228?casa_token=uUSSMSYYz8kAAAAA%3Ak9RAJxZUEeAcikUZH9G-o5hGAd21QvhnQVWkPpecl--ZYyfr0R10XscXW60Ohs4KF7S5S2Pa_HFp)
 
