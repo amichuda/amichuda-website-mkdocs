@@ -12,13 +12,20 @@ classoption:
 
 **Email**: [amichuda@ucdavis.edu](mailto:amichuda@ucdavis.edu)
 
+# Appointments and Experience
+
+|      |                              |                                                                        |        
+|------|------------------------------|------------------------------------------------------------------------|
+|2021+ | Assistant Research Professor | Center for Data Science for Enterprise and Society, Cornell University | 
+
+
 # Education
 
 |    |                                           |         |
 |----|-------------------------------------------|---------|
-|2015-Present| PhD Agricultural and Resource Economics, UC Davis|Ongoing |
-|2014| B.A./M.A. Economics CUNY Hunter College| *summa cum laude*|
-|2014| B.A. Philosophy CUNY Hunter College    | *summa cum laude*|
+|2021| Agricultural and Resource Economics, UC Davis|PhD |
+|2014| Economics CUNY Hunter College| BA/MA|
+|2014| Philosophy CUNY Hunter College    | BA|
 
 # References
 
