@@ -163,7 +163,7 @@ Python, Stata, LaTeX, R, Github, Bash
 |                       |                                                            |
 |:----------------------|-----------------------------------------------------------:|
 |**UC Davis**           |                                                            |
-|Winter 2021            |  SPIA small grant for agricultural innovations in Ethiopia |
+|Winter 2021            |(CGIAR) SPIA small grant for agricultural innovations in Ethiopia |
 |Fall 2014 - Spring 2016|Steindler Fellowship                                        |
 |Spring 2017            |Henry A. Jastro Grant                                       |
 |Fall 2017              |BITSS Catalyst Grant                                        |
