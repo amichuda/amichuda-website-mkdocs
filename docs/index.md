@@ -5,12 +5,10 @@ hide:
 
 ![UC Davis](assets/images/jmp.jpeg){: width="50%" align=left}
 
-|                                                            |  
-|------------------------------------------------------------| 
-| [:fontawesome-brands-twitter:{: .heart} Twitter](https://twitter.com/econaleks) |
-| [:fontawesome-brands-github:{: .heart} Github](https://github.com/amichuda)|
-| [:fontawesome-brands-linkedin:{: .heart} Linkedin](https://www.linkedin.com/in/aleksandr-michuda-3a839b149/)|
-| [:fontawesome-regular-envelope:{: .heart} Email](mailto:amichuda@ucdavis.edu) |
+|                                                            |                                                                |
+|------------------------------------------------------------|----------------------------------------------------------------|
+| [:fontawesome-brands-twitter:{: .heart} Twitter](https://twitter.com/econaleks)  | [:fontawesome-brands-linkedin:{: .heart} Linkedin](https://www.linkedin.com/in/aleksandr-michuda-3a839b149/)|
+| [:fontawesome-brands-github:{: .heart} Github](https://github.com/amichuda) | [:fontawesome-regular-envelope:{: .heart} Email](mailto:amichuda@ucdavis.edu) |
 
 I'm a PhD Candidate in the [Agricultural and Resource Economics Department at UC Davis](https://are.ucdavis.edu/).
 
