@@ -3,18 +3,18 @@ hide:
   - navigation
 ---
 
-![UC Davis](assets/images/jmp.jpeg){: width="50%" align=right}
+I am an Assistant Research Professor at Cornell University's [Center for Data Science for Enterprise and Society](https://datasciencecenter.cornell.edu/).
+
+My interests include development economics, transparency in social science and using machine learning to solve problems in development.
+
+![UC Davis](assets/images/jmp.jpeg){: width="30%" align=left}
 
 |                                                            |                                                                |
 |------------------------------------------------------------|----------------------------------------------------------------|
 | [:fontawesome-brands-twitter:{: .heart} Twitter](https://twitter.com/econaleks)  | [:fontawesome-brands-linkedin:{: .heart} Linkedin](https://www.linkedin.com/in/aleksandr-michuda-3a839b149/)|
 | [:fontawesome-brands-github:{: .heart} Github](https://github.com/amichuda) | [:fontawesome-regular-envelope:{: .heart} Email](mailto:amichuda@ucdavis.edu) |
 
-I am an Assistant Research Professor at Cornell University's [Center for Data Science for Enterprise and Society](https://datasciencecenter.cornell.edu/).
-
-My interests include development economics, transparency in social science and using machine learning to solve problems in development.
-
-## Appointments and Experience
+<!-- ## Appointments and Experience
 
 |    |                                           |         |
 |----|-------------------------------------------|---------|
@@ -39,6 +39,6 @@ My interests include development economics, transparency in social science and u
 
 ## Technical Skills
 
-Python, STATA, LaTeX, R, Github, Bash
+Python, STATA, LaTeX, R, Github, Bash -->
 
 
