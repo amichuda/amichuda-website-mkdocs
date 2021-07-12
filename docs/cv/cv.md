@@ -12,13 +12,20 @@ classoption:
 
 **Email**: [amichuda@ucdavis.edu](mailto:amichuda@ucdavis.edu)
 
+# Appointments and Experience
+
+|      |                              |                                                                        |        
+|------|------------------------------|------------------------------------------------------------------------|
+|2021+ | Assistant Research Professor | Center for Data Science for Enterprise and Society, Cornell University | 
+
+
 # Education
 
 |    |                                           |         |
 |----|-------------------------------------------|---------|
-|2015-Present| PhD Agricultural and Resource Economics, UC Davis|Ongoing |
-|2014| B.A./M.A. Economics CUNY Hunter College| *summa cum laude*|
-|2014| B.A. Philosophy CUNY Hunter College    | *summa cum laude*|
+|2021| Agricultural and Resource Economics, UC Davis|PhD |
+|2014| Economics CUNY Hunter College| BA/MA|
+|2014| Philosophy CUNY Hunter College    | BA|
 
 # References
 
@@ -163,7 +170,7 @@ Python, Stata, LaTeX, R, Github, Bash
 |                       |                                                            |
 |:----------------------|-----------------------------------------------------------:|
 |**UC Davis**           |                                                            |
-|Winter 2021            |  SPIA small grant for agricultural innovations in Ethiopia |
+|Winter 2021            |(CGIAR) SPIA small grant for agricultural innovations in Ethiopia |
 |Fall 2014 - Spring 2016|Steindler Fellowship                                        |
 |Spring 2017            |Henry A. Jastro Grant                                       |
 |Fall 2017              |BITSS Catalyst Grant                                        |
