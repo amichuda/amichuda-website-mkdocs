@@ -16,11 +16,17 @@ My interests include development economics, transparency in social science and u
 
 :tada: :tada: **I will be starting as an Assistant Research Professor at Cornell University Center for Data Science for Enterprise and Society in August 2021!!** :tada: :tada:
 
+## Appointments and Experience
+
+|    |                                           |         |
+|----|-------------------------------------------|---------|
+|2021+| Assistant Research Professor|Center for Data Science for Enterprise and Society, Cornell University |
+
 ## Education
 
 |    |                                           |         |
 |----|-------------------------------------------|---------|
-|2015-Present| PhD Agricultural and Resource Economics, UC Davis|Ongoing |
+|2021| PhD Agricultural and Resource Economics, UC Davis|PhD |
 |2014| B.A./M.A. Economics CUNY Hunter College| *summa cum laude*|
 |2014| B.A. Philosophy CUNY Hunter College    | *summa cum laude*|
 
