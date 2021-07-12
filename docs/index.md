@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-![UC Davis](assets/images/jmp.jpeg){: width="50%" align=left}
+![UC Davis](assets/images/jmp.jpeg){: width="50%" align=right}
 
 |                                                            |                                                                |
 |------------------------------------------------------------|----------------------------------------------------------------|
