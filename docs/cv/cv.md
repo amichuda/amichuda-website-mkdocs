@@ -27,26 +27,10 @@ classoption:
 |2014| Economics CUNY Hunter College| BA/MA|
 |2014| Philosophy CUNY Hunter College    | BA|
 
-# References
-
-```{=latex}
-\begin{tabular}{p{0.6\textwidth}p{\textwidth}}
-Michael R. Carter                                  & Travis Lybbert                                     \\
-\emph{Distinguished Professor, UC Davis}                & \emph{Professor, UC Davis}                              \\
-Dissertation Chair                                 & Dissertation Committee Member                      \\
-\href{mailto:mrcarter@ucdavis.edu}{mrcarter@ucdavis.edu}                         & \href{mailto:tlybbert@ucdavis.edu}{tlybbert@ucdavis.edu}                        \\
-& \\
-Dalia Ghanem                                       &Rachael Goodhue                                    \\
-\emph{Associate Professor, UC Davis}                    & \emph{Department Chair and Professor}                     \\
-Dissertation Committee Member                      & \href{mailto:goodhue@primal.ucdavis.edu}{goodhue@primal.ucdavis.edu}                  \\
-\href{mailto:dghanem@ucdavis.edu}{dghanem@ucdavis.edu}                          
-\end{tabular}
-```
-
 
 # Job Market Paper
 
-## Urban Labor Supply Responses to Rural Drought Shocks: Uber in Uganda
+## Urban Labor Supply Responses to Rural Drought Shocks on Rideshare Platforms
 
 \small
 Rural-urban linkages have long been a topic of study in the developing world. Remittances
@@ -70,7 +54,7 @@ used to buffer against adverse weather shocks
 
 [Tjernström, Emilia, Dalia Ghanem, Oscar Barriga Cabanillas, Travis J. Lybbert, Jeffrey D. Michler, and Aleksandr Michuda. "A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption."](https://emiliatjernstrom.com/files/TGBLMM2020.pdf)
 
-Identity, Location, and Voting in Uganda - *With Samuel S. Bird*
+[Bird, Samuel S.; Michuda, Aleksandr. "Majority Ethnic Membership and Voting Preferences in Uganda." (2021)](https://drive.google.com/file/d/1zAeTvg_cZViWq5gu4dRRpacOy8mAdGhz/view?usp=sharing)
 
 The Russian Mir - *With Jonathan Conning*
 
