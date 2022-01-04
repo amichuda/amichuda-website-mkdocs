@@ -6,17 +6,19 @@ classoption:
 
 # Aleksandr Michuda
 
-**Address**: 602 Adams st. Apt. 18, Davis, CA 95616
+**Email**: [am2497@cornell.edu](mailto:amichuda@ucdavis.edu)
 
-**Phone**: 718-564-9741
+**Website**: [amichuda.github.io](https://amichuda.github.io)
 
-**Email**: [amichuda@ucdavis.edu](mailto:amichuda@ucdavis.edu)
+**Github**: [https://github.com/amichuda](https://github.com/amichuda)
+
+**Linkedin**: [https://www.linkedin.com/in/aleksandr-michuda](https://www.linkedin.com/in/aleksandr-michuda)
 
 # Appointments and Experience
 
-|      |                              |                                                                        |        
+|      |                              |                                                                        |
 |------|------------------------------|------------------------------------------------------------------------|
-|2021+ | Assistant Research Professor | Center for Data Science for Enterprise and Society, Cornell University | 
+|2021+ | Assistant Research Professor | Center for Data Science for Enterprise and Society, Cornell University |
 
 
 # Education
@@ -27,32 +29,11 @@ classoption:
 |2014| Economics CUNY Hunter College| BA/MA|
 |2014| Philosophy CUNY Hunter College    | BA|
 
-
-# Job Market Paper
-
-## Urban Labor Supply Responses to Rural Drought Shocks on Rideshare Platforms
-
-\small
-Rural-urban linkages have long been a topic of study in the developing world. Remittances
-are often a key driver of these linkages and can act as insurance against rural weather shock risk,
-in the absence of availability and access to formal insurance products. The emergence of new
-technologies, such as gig economy platforms and mobile money, can be potentially transformative
-at allowing remittance flows to adjust more quickly to adverse shocks. I use a dataset of Uber
-driver labor supply and a rich dataset of weather indicators to estimate the effect of adverse
-weather shocks in rural areas on Uber drivers in Kampala, Uganda. Since I do not have explicit
-information on migrant status and rural connection, I leverage an external dataset of Ugandan
-voter registration and train a gradient boosting classifier on Ugandan surnames to predict which
-regions drivers are connected to. I develop a switching regression estimator to address the
-misclassification bias from the predictions. I find that a one standard deviation increase in the
-intensity of agricultural drought leads to an increase of 5.1 hours online in the month of the
-event (a 6% increase over average hours), providing suggestive evidence that Uber’s flexibility is
-used to buffer against adverse weather shocks
-
-\normalsize
-
 # Working Papers
 
-[Tjernström, Emilia, Dalia Ghanem, Oscar Barriga Cabanillas, Travis J. Lybbert, Jeffrey D. Michler, and Aleksandr Michuda. "A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption."](https://emiliatjernstrom.com/files/TGBLMM2020.pdf)
+[Michuda, Aleksandr. "Urban Labor Supply Responses to Rural Drought Shocks on Rideshare Platforms." (2021)](https://drive.google.com/file/d/18tg_AMmvOKe86OdfVDXWp0qNtSTESQG8/view)
+
+[Tjernström, Emilia, Dalia Ghanem, Oscar Barriga Cabanillas, Travis J. Lybbert, Jeffrey D. Michler, and Aleksandr Michuda. "A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption." (2021)](https://emiliatjernstrom.com/files/TGBLMM2020.pdf)
 
 [Bird, Samuel S.; Michuda, Aleksandr. "Majority Ethnic Membership and Voting Preferences in Uganda." (2021)](https://drive.google.com/file/d/1zAeTvg_cZViWq5gu4dRRpacOy8mAdGhz/view?usp=sharing)
 
@@ -60,7 +41,7 @@ The Russian Mir - *With Jonathan Conning*
 
 [Michuda, Aleksandr, Rachael E. Goodhue, Krishna V. Subbarao, and Daniel Chellemi. "Evaluating a Systems Approach to Suppressive Crop Rotations in Strawberry Production." (2019).](https://ageconsearch.umn.edu/record/291173/files/291173.pdf)
 
-# Publications 
+# Publications
 
 ## Development Economics
 
@@ -138,6 +119,7 @@ Python, Stata, LaTeX, R, Github, Bash
 
 |                                                                                      |
 |--------------------|-----------------------------------------------------------------|
+|NEUDC 2021          | Urban Labor Supply Responses to Rural Drought Shocks on Rideshare Platforms.|
 |BITSS RT2 2020      |Dynamic Documents with Jupyter Notebooks                                              | 
 |AAEA Meetings 2019  |Evaluating a Systems Approach to Suppressive Crop Rotations in Strawberry Production  |
 |AAEA Meetings 2018  |Political Contributions and the Case of South African Land Reform                     |
@@ -153,21 +135,9 @@ Python, Stata, LaTeX, R, Github, Bash
 
 |                       |                                                            |
 |:----------------------|-----------------------------------------------------------:|
-|**UC Davis**           |                                                            |
 |Winter 2021            |(CGIAR) SPIA small grant for agricultural innovations in Ethiopia |
 |Fall 2014 - Spring 2016|Steindler Fellowship                                        |
 |Spring 2017            |Henry A. Jastro Grant                                       |
 |Fall 2017              |BITSS Catalyst Grant                                        |
 |2017                   |Graduate Student Association President                      |
-|**Hunter College**     |                                                            |
-|Fall 2009 - Spring 2011|Philip and Aida Siff Educational Foundation Scholarship     |
-|Fall 2009 - Spring 2011|Vallone Scholarship                                         |
-|All Semesters          |Dean's List                                                 |
-|Spring 2012            |Undergraduate Research Initiative                           |
-|Fall 2012              |Roosevelt House Faculty Associate Travel and Research Grant |
-|Spring 2013            |Phi Sigma Tau (Philosophy Honor Society) Member             |
-|Spring 2013            |The Scholarship and Welfare Fund Graduate Scholarship       |
-|Fall 2013              |JMS Scholarship                                             |
-|Fall 2013              |Eastern Economic Association Member                         |
-|Spring 2014            |William S. Bryar Memorial Award                             |
 
