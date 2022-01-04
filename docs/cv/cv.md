@@ -10,9 +10,9 @@ classoption:
 
 **Website**: [amichuda.github.io](https://amichuda.github.io)
 
-**Github**: [https://github.com/amichuda](https://github.com/amichuda)
+**Github**: [github.com/amichuda](https://github.com/amichuda)
 
-**Linkedin**: [https://www.linkedin.com/in/aleksandr-michuda](https://www.linkedin.com/in/aleksandr-michuda)
+**Linkedin**: [www.linkedin.com/in/aleksandr-michuda](https://www.linkedin.com/in/aleksandr-michuda)
 
 # Appointments and Experience
 
