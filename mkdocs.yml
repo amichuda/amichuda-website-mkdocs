@@ -3,7 +3,6 @@ site_name: "Aleksandr Michuda"
 nav:
   - Home: index.md
   - Research: 
-    - Job Market Paper: research/jmp.md
     - Published Works: research/published.md
     - Working Papers/Ongoing Projects: research/working.md
     - Book Chapters: research/chapters.md
@@ -13,6 +12,8 @@ nav:
     - bitss.md
   - Teaching:
     - teaching/teaching.md
+  - Software:
+    - software.md
 
 extra_css:
   - stylesheets/extra.css

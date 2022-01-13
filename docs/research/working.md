@@ -2,6 +2,26 @@
 
 ## Development
 
+### Urban Labor Supply Responses to Rural Drought Shocks: Uber in Uganda
+
+??? abstract
+    Rural-urban linkages have long been a topic of study in the developing world. Remittances
+    are often a key driver of these linkages and can act as insurance against rural weather shock risk,
+    in the absence of availability and access to formal insurance products. The emergence of new
+    technologies, such as gig economy platforms and mobile money, can be potentially transformative
+    at allowing remittance flows to adjust more quickly to adverse shocks. I use a dataset of Uber
+    driver labor supply and a rich dataset of weather indicators to estimate the effect of adverse
+    weather shocks in rural areas on Uber drivers in Kampala, Uganda. Since I do not have explicit
+    information on migrant status and rural connection, I leverage an external dataset of Ugandan
+    voter registration and train a gradient boosting classifier on Ugandan surnames to predict which
+    regions drivers are connected to. I develop a switching regression estimator to address the
+    misclassification bias from the predictions. I find that a one standard deviation increase in the
+    intensity of agricultural drought leads to an increase of 5.1 hours online in the month of the
+    event (a 6% increase over average hours), providing suggestive evidence that Uber’s flexibility is
+    used to buffer against adverse weather shocks
+
+    Due to the data used in the paper, please email me if you would like a draft of the paper.
+
 ### A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption
 
 *With Emilia Tjernstrom, Dalia Ghanem, Oscar Barriga Cabanillas, Travis J. Lybbert, and Jeffrey D. Michler*
@@ -16,7 +36,9 @@
 *With Samuel S. Bird*
 
 ??? abstract
-    This paper disentangles the effects of a voter's regional identity and their location of residence on their voting behavior. We estimate this effect by pairing voter registration data with election outcomes for polling stations throughout Uganda. We overcome the challenge of measuring identity by using a machine learning algorithm that exploits variation in ethnic and linguistic groups across regions of Uganda. In particular, we use the letter sequences in each individual voter's surname to predict their regional identity. We then use regional identity as the explanatory variable of interest in a regression model of support for the incumbent president in the 2016 general election. We identify our estimate of the regional identity effect with a model that controls for the sub-regional location of the polling station. Comparing results with and without location controls allows us to estimate the relative roles of regional identity itself and location-specific effects on observed voting behavior.
+    A large literature studies the effect of ethnicity on voting in developing countries. Yet empirically it is difficult to measure ethnicity at a scale necessary to disentangle the effect of ethnicity on voting from shared political goals that stem from living in the same location. This paper differentiates between the effects of a voter's ethnicity and their location on voting behavior. We estimate these effects by pairing voter registration data with election outcomes from polling stations throughout Uganda. We overcome the challenge of measuring ethnicity by using a machine learning algorithm that exploits variation in surnames across ethnic and linguistic groups. We use these ethnicity measures to estimate the effect of ethnicity on support for the incumbent president in the 2016 general election. We find that differences in voting by ethnicity are significant and vary between regions, suggesting the importance of measuring and studying ethnicity at scale.
+
+[PDF](https://drive.google.com/file/d/1X4jZHViSOriXrxzsxoiU82Q1QvD9wmhe/view?usp=sharing){: .md-button .md-button--primary}
 
 ### The Russian Mir
 
