@@ -119,6 +119,7 @@ Python, Stata, LaTeX, R, Github, Bash
 
 |                                                                                      |
 |--------------------|-----------------------------------------------------------------|
+|Pacdev 2022         | Urban Labor Supply Responses to Rural Drought Shocks on Rideshare Platforms.|
 |NEUDC 2021          | Urban Labor Supply Responses to Rural Drought Shocks on Rideshare Platforms.|
 |BITSS RT2 2020      |Dynamic Documents with Jupyter Notebooks                                              | 
 |AAEA Meetings 2019  |Evaluating a Systems Approach to Suppressive Crop Rotations in Strawberry Production  |
