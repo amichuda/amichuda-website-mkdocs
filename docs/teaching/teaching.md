@@ -1,4 +1,4 @@
-# Teaching Experience
+# Teaching
 
 ## ARE 106: Econometric Theory and Applications
 
