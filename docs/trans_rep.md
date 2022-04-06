@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Transparency and Reproducibility
 
 ## BITSS Catalyst- Berkeley Initiative for Transparency in the Social Sciences
