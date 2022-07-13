@@ -18,14 +18,14 @@
 
 [PDF](https://emiliatjernstrom.com/files/TGBLMM2020.pdf){: .md-button .md-button--primary}
 
-### Identity, Location, and Voting in Uganda
+### Measuring Ethnicity and Estimating its Effects on Voting at Scale: Evidence from Uganda
 
 *With Samuel S. Bird*
 
 ??? abstract
-    A large literature studies the effect of ethnicity on voting in developing countries. Yet empirically it is difficult to measure ethnicity at a scale necessary to disentangle the effect of ethnicity on voting from shared political goals that stem from living in the same location. This paper differentiates between the effects of a voter's ethnicity and their location on voting behavior. We estimate these effects by pairing voter registration data with election outcomes from polling stations throughout Uganda. We overcome the challenge of measuring ethnicity by using a machine learning algorithm that exploits variation in surnames across ethnic and linguistic groups. We use these ethnicity measures to estimate the effect of ethnicity on support for the incumbent president in the 2016 general election. We find that differences in voting by ethnicity are significant and vary between regions, suggesting the importance of measuring and studying ethnicity at scale.
+    A large literature studies the effect of ethnicity on voting in developing countries. Yet empirically it is difficult to measure ethnicity at a scale necessary to disentangle the effect of ethnicity on voting from shared political goals that stem from living in the same location. This paper differentiates between the effects of a voter's ethnicity and their location on voting behavior. We estimate these effects by pairing voter registration data with election outcomes from polling stations throughout Uganda. We overcome the challenge of measuring ethnicity by using a machine learning algorithm that exploits variation in surnames across ethnic and linguistic groups. We use these ethnicity measures to estimate the effect of ethnicity on support for the incumbent president in the 2016 general election. We find that differences in voting by ethnicity are significant and do not vary between regions, suggesting the importance of measuring and studying ethnicity at scale.
 
-[PDF](https://drive.google.com/file/d/1X4jZHViSOriXrxzsxoiU82Q1QvD9wmhe/view?usp=sharing){: .md-button .md-button--primary}
+[PDF](https://drive.google.com/file/d/1Tdmr2_4DCSXIt_Q7tq1omglsgn249VgE/view?usp=sharing){: .md-button .md-button--primary}
 
 ### The Russian Mir
 
