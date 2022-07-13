@@ -136,6 +136,12 @@ Python, Stata, LaTeX, R, Github, Bash
 
 |                       |                                                            |
 |:----------------------|-----------------------------------------------------------:|
+|Summer 2022            | NSF OSP: 142678                                            |
+|                       | Conference on Reproducibility and Replicability in Economics and Social Sciences (CRRESS)| 
+|Summer 2022            | Dyson AEP Faculty Seed Grant                               |
+|                       | The Surname-Ethnicity Connection: A Validation Exercise    |
+|Spring 2022            |Dyson AEP Faculty Seed Grant                                |
+|                       | Climate induced soil salinity impacts on agricultural productivity and livelihood diversification in the Sundarbans, India|
 |Winter 2021            |(CGIAR) SPIA small grant for agricultural innovations in Ethiopia |
 |Fall 2014 - Spring 2016|Steindler Fellowship                                        |
 |Spring 2017            |Henry A. Jastro Grant                                       |
