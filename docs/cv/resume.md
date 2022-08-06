@@ -41,6 +41,11 @@ Ukrainian: Conversational
 
 # Experience
 
+## Cornell University - Assistant Research Professor - Center for Data Science for Enterprise and Society
+
+- August 2020 - Now
+- 
+
 ## Uber - Data Science Intern - Economics and Pricing
 
 - September 2019 - December 2019
