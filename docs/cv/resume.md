@@ -6,11 +6,9 @@ classoption:
 
 # Aleksandr Michuda
 
-**Address**: 602 Adams st. Apt. 18, Davis, CA 95616
+**Address**: New York, NY
 
-**Phone**: 718-564-9741
-
-**Email**: [\textcolor{blue}{amichuda@ucdavis.edu}](mailto:amichuda@ucdavis.edu)
+**Email**: [\textcolor{blue}{am2497@cornell.edu}](mailto:am2497@cornell.edu)
 
 **Github**: [\textcolor{blue}{https://github.com/amichuda}](https://github.com/amichuda)
 
@@ -24,13 +22,13 @@ Economist with a passion for causal inference done rigorously and in conjunction
 
 |    |                                           |         |
 |----|-------------------------------------------|---------|
-|2015-Present| PhD Agricultural and Resource Economics, UC Davis|Ongoing |
+|2020| PhD Agricultural and Resource Economics, UC Davis||
 |2014| B.A./M.A. Economics CUNY Hunter College| *summa cum laude*|
 |2014| B.A. Philosophy CUNY Hunter College    | *summa cum laude*|
 
 # Technical Skills
 
-- Python, Stata, LaTeX, R, Github, Bash
+- Python, R, Github, Bash, Stata
 - Causal Inference, Machine Learning Classification, Applied Econometrics
 
 # Languages and Skills
@@ -39,7 +37,7 @@ English: Fluent
 
 Russian: Fluent
 
-Ukrainian: Basic Knowledge
+Ukrainian: Conversational
 
 # Experience
 
@@ -74,25 +72,11 @@ Ukrainian: Basic Knowledge
 - Regression and ANOVA analysis using Stata and Jupyter Notebooks
 - Calibrating dynamic contract models in Python
 
-# References
-
-```{=latex}
-\begin{tabular}{p{0.6\textwidth}p{\textwidth}}
-Michael R. Carter                                  & Travis Lybbert                                     \\
-\emph{Distinguished Professor, UC Davis}                & \emph{Professor, UC Davis}                              \\
-Dissertation Chair                                 & Dissertation Committee Member                      \\
-\href{mailto:mrcarter@ucdavis.edu}{mrcarter@ucdavis.edu}                         & \href{mailto:tlybbert@ucdavis.edu}{tlybbert@ucdavis.edu}                        \\
-& \\
-Dalia Ghanem                                       &Rachael Goodhue                                    \\
-\emph{Associate Professor, UC Davis}                    & \emph{Department Chair and Professor}                     \\
-Dissertation Committee Member                      & \href{mailto:goodhue@primal.ucdavis.edu}{goodhue@primal.ucdavis.edu}                  \\
-\href{mailto:dghanem@ucdavis.edu}{dghanem@ucdavis.edu}                          
-\end{tabular}
-```
-
 \normalsize
 
 # Relevant Work
+
+[Michuda, Aleksandr. "Urban Labor Supply Responses to Weather Shocks for Ugandan Uber Drivers."](https://drive.google.com/file/d/1kG5cYX5SrpDZyHv1vpushXWrzd6UmrU6/view?usp=sharing)  
 
 [Tjernström, Emilia, Dalia Ghanem, Oscar Barriga Cabanillas, Travis J. Lybbert, Jeffrey D. Michler, and Aleksandr Michuda. "A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption."](https://emiliatjernstrom.com/files/TGBLMM2020.pdf)
 
