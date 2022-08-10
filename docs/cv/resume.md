@@ -41,6 +41,13 @@ Ukrainian: Conversational
 
 # Experience
 
+## Cornell University - Assistant Research Professor - Center for Data Science for Enterprise and Society
+
+- August 2020 - Now
+- Research on the entrance of ride-share platforms in developing countries
+- Engage with corporate partners through data user agreements (DUAs) to conduct analysis with restricted data
+- Collaborate with faculty from Dyson Business School and the Information School
+
 ## Uber - Data Science Intern - Economics and Pricing
 
 - September 2019 - December 2019
