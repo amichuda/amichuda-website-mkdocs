@@ -33,7 +33,30 @@
 
 [PDF](https://www.tandfonline.com/doi/full/10.1080/21683565.2018.1552228?casa_token=uUSSMSYYz8kAAAAA:k9RAJxZUEeAcikUZH9G-o5hGAd21QvhnQVWkPpecl--ZYyfr0R10XscXW60Ohs4KF7S5S2Pa_HFp){: .md-button .md-button--primary}
 
+### Predicting net returns of organic and conventional strawberry following soil disinfestation with steam or steam plus additives
 
+
+*With Rachael Goodhue, Mark Hoffmann and Steve A. Fennimore*
+
+??? abstract
+    Pre-plant methods for managing soil-borne pests and diseases are an important priority for
+    many agricultural production systems. This study investigates   whether the application of steam
+    is an economically sustainable pre-plant soil disinfestation    technique for organic and
+    conventional strawberry production in California’s Central  Coast region. We analyze net
+    returns ha -1 from field trials using steam and steam +     mustard seed meal (MSM) as pre-plant
+    soil disinfestation treatments. ANOVA tests identify    statistically significant differences in net
+    revenues by treatment and trial. Multivariate regressions   estimate the magnitude of these
+    effects. Predictive polynomial models identify relationships    between net returns ha -1 and two
+    treatment characteristics: maximum temperature (⁰ C) and time   at ≥ 60⁰ C (minutes). For
+    organic production, net returns ha -1 are statistically     similar for the steam and steam + MSM
+    treatments. For conventional production, the steam + MSM    treatment has significantly higher
+    net returns ha -1 than the steam treatment. Polynomial models   outperform the sample mean for
+    prediction of net returns ha -1 except for the steam + MSM  treatment in conventional
+    production. Results from two of three organic models suggest    that maximum soil temperatures
+    of 62-63⁰ C achieved for 41-44 minutes maximizes net returns    ha -1 and may be a basis for
+    further experiments.
+
+[PDF](https://www.mdpi.com/2073-4395/11/1/149){: .md-button .md-button--primary}
 
 
 
