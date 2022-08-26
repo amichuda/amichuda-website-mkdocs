@@ -6,7 +6,7 @@ classoption:
 
 # Aleksandr Michuda
 
-**Email**: [am2497@cornell.edu](mailto:amichuda@ucdavis.edu)
+**Email**: [am2497@cornell.edu](mailto:am2497@cornell.edu)
 
 **Website**: [amichuda.github.io](https://amichuda.github.io)
 
@@ -31,13 +31,11 @@ classoption:
 
 # Working Papers
 
-[Michuda, Aleksandr. "Urban Labor Supply Responses to Rural Drought Shocks on Rideshare Platforms." (2021)](https://drive.google.com/file/d/18tg_AMmvOKe86OdfVDXWp0qNtSTESQG8/view)
+[Michuda, Aleksandr. "Rural-Urban Risk Sharing Networks: Uber Driver Labor Supply Responses To Shocks In Uganda" (2022)](https://drive.google.com/file/d/1aP--t1ORRbW_B4dlGgwW9bvCYBZhaVjZ/view?usp=sharing)
 
 [Tjernström, Emilia, Dalia Ghanem, Oscar Barriga Cabanillas, Travis J. Lybbert, Jeffrey D. Michler, and Aleksandr Michuda. "A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption." (2021)](https://emiliatjernstrom.com/files/TGBLMM2020.pdf)
 
-[Bird, Samuel S.; Michuda, Aleksandr. "Majority Ethnic Membership and Voting Preferences in Uganda." (2021)](https://drive.google.com/file/d/1zAeTvg_cZViWq5gu4dRRpacOy8mAdGhz/view?usp=sharing)
-
-The Russian Mir - *With Jonathan Conning*
+[Bird, Samuel S.; Michuda, Aleksandr. "Measuring Ethnicity and Estimating its Effects on Voting at Scale: Evidence from Uganda" (2022)](https://drive.google.com/file/d/1Tdmr2_4DCSXIt_Q7tq1omglsgn249VgE/view?usp=sharing)
 
 [Michuda, Aleksandr, Rachael E. Goodhue, Krishna V. Subbarao, and Daniel Chellemi. "Evaluating a Systems Approach to Suppressive Crop Rotations in Strawberry Production." (2019).](https://ageconsearch.umn.edu/record/291173/files/291173.pdf)
 
@@ -46,6 +44,8 @@ The Russian Mir - *With Jonathan Conning*
 ## Development Economics
 
 [Gupta, Anubhab, Heng Zhu, Miki Khanh Doan, Aleksandr Michuda, and Binoy Majumder. "Economic Impacts of the COVID-19 Lockdown in a Remittance‐dependent Region." American Journal of Agricultural Economics.](https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12178)
+
+[Vosti, Stephen, Katherine Adams, Aleksandr Michuda, Hanqi Luo, Demewoz Woldegebreal, Victoria Chou,  Adrienne Clermont,  Ismael Teta,  Alex Ndjebayi, Jules Guintang,  Reina Engle-Stone. "Selecting Micronutrient Intervention Programs to Save Lives: Evidence From Cameroon"](https://academic.oup.com/cdn/article/5/Supplement_2/693/6292849)
 
 ## Applied Econometrics
 
@@ -57,10 +57,7 @@ The Russian Mir - *With Jonathan Conning*
 
 [Michuda, Aleksandr, Rachael Goodhue, Karen Klonsky, Graeme Baird, Lucinda Toyama, Margherita Zavatta, Joji Muramoto, and Carol Shennan. "The economic viability of suppressive crop rotations for the control of verticillium wilt in organic strawberry production." Agroecology and Sustainable Food Systems 43, no. 9 (2019): 984-1008.](https://www.tandfonline.com/doi/full/10.1080/21683565.2018.1552228?casa_token=uUSSMSYYz8kAAAAA%3Ak9RAJxZUEeAcikUZH9G-o5hGAd21QvhnQVWkPpecl--ZYyfr0R10XscXW60Ohs4KF7S5S2Pa_HFp)
 
-[Michuda, Aleksandr, Rachael Goodhue, Joji Muramoto, and Carol
-Shennan. "Crop Rotations Can Increase Net Returns in Organic Strawberry
-and Vegetable Production Systems." ARE Update 20(6)(2017): 5-8.
-University of California Giannini Foundation of Agricultural Economics.](https://giannini.ucop.edu/publications/are-update/issues/2017/20/6/crop-rotations-can-increase-net-returns-in-organic/)
+[Michuda, Aleksandr, Rachael Goodhue, Joji Muramoto, and Carol Shennan. "Crop Rotations Can Increase Net Returns in Organic Strawberry and Vegetable Production Systems." ARE Update 20(6)(2017): 5-8. University of California Giannini Foundation of Agricultural Economics.](https://giannini.ucop.edu/publications/are-update/issues/2017/20/6/crop-rotations-can-increase-net-returns-in-organic/)
 
 # Book Chapters
 
@@ -87,6 +84,14 @@ Python, Stata, LaTeX, R, Github, Bash
 - Evaluated policies using regression discontinuity design, difference-in-differences and treatment effect estimation
 - Generated spatial and dynamic visualizations of driver behavior using Python and SQL
 
+## Consultant (Optimal Nutritional Interventions across Space and Time)
+
+- Advisor: Stephen Vosti
+- Responsible for developing a python package that finds the optimal set of nutritional interventions across space and time
+  - Using 24hr recall or household surveys
+- Estimated optimal interventions of effective coverage and lives saved in Cameroon
+- Developed dashboards for HKI (Hellen Keller International) to visualize Vitamin A intake in Kenya
+
 ## BITSS Catalyst- Berkeley Initiative for Transparency in the Social Sciences July 2017 - Present
 
 - Organized workshops that teach reproducibility and transparency in
@@ -94,14 +99,6 @@ Python, Stata, LaTeX, R, Github, Bash
 - Taught Anonymization of data as well as replication techniques.
 - Taught Jupyter Notebooks portion of dynamic documents (R Markdown,
     Jupyter Notebooks, Stata Markdown)
-
-## Research Assistant (Optimal Nutritional Interventions across Space and Time)
-
-- Advisor: Stephen Vosti
-- Responsible for developing a python package that finds the optimal set of nutritional interventions across space and time
-  - Using 24hr recall or household surveys
-- Estimated optimal interventions of effective coverage and lives saved in Cameroon
-- Developed dashboards for HKI (Hellen Keller International) to visualize Vitamin A intake in Kenya
 
 ## Research Assistant (Disease Suppressive Crop Rotations)
 
