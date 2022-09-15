@@ -77,6 +77,16 @@ Python, Stata, LaTeX, R, Github, Bash
 
 # Experience
 
+## Consultant - MINIMOD - Optimal Nutritional Interventions across Space and Time
+
+- January 2020 - July 2022
+- Advisor: Stephen Vosti
+- Responsible for developing a python package that finds the optimal set of nutritional interventions across space and time
+  - Using 24hr recall or household surveys
+- Estimated optimal interventions of effective coverage and lives saved in Cameroon
+- Developed dashboards for HKI (Hellen Keller International) to visualize Vitamin A intake in Kenya
+
+
 ## Uber - Data Science Intern - Economics and Pricing
 
 - September 2019 - December 2019
@@ -84,25 +94,19 @@ Python, Stata, LaTeX, R, Github, Bash
 - Evaluated policies using regression discontinuity design, difference-in-differences and treatment effect estimation
 - Generated spatial and dynamic visualizations of driver behavior using Python and SQL
 
-## Consultant (Optimal Nutritional Interventions across Space and Time)
+## Catalyst - BITSS (Berkeley Initiative for Transparency in the Social Sciences)
 
-- Advisor: Stephen Vosti
-- Responsible for developing a python package that finds the optimal set of nutritional interventions across space and time
-  - Using 24hr recall or household surveys
-- Estimated optimal interventions of effective coverage and lives saved in Cameroon
-- Developed dashboards for HKI (Hellen Keller International) to visualize Vitamin A intake in Kenya
-
-## BITSS Catalyst- Berkeley Initiative for Transparency in the Social Sciences July 2017 - Present
-
+- July 2017 - Present
 - Organized workshops that teach reproducibility and transparency in
     social sciences.
 - Taught Anonymization of data as well as replication techniques.
 - Taught Jupyter Notebooks portion of dynamic documents (R Markdown,
     Jupyter Notebooks, Stata Markdown)
 
-## Research Assistant (Disease Suppressive Crop Rotations)
+## Research Assistant - UC Davis - Disease Suppressive Crop Rotations
 
-- Advisor: Rachael E. Goodhue July 2016 - September 2019
+- July 2016 - September 2019
+- Advisor: Rachael E. Goodhue 
 - Responsible for data management and cleaning
 - Regression and ANOVA analysis using Stata and Jupyter Notebooks
 - Calibrating dynamic contract models in Python
