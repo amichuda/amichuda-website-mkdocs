@@ -73,7 +73,7 @@ Ukrainian: Basic Knowledge
 
 # Technical Skills
 
-Python, Stata, LaTeX, R, Github, Bash
+Python, GAMS, Stata, LaTeX, R, Github, Bash
 
 # Experience
 
