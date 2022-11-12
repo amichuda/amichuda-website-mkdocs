@@ -14,7 +14,7 @@ classoption:
 
 **Linkedin**: [www.linkedin.com/in/aleksandr-michuda](https://www.linkedin.com/in/aleksandr-michuda)
 
-# Appointments and Experience
+# Appointments
 
 |      |                              |                                                                        |
 |------|------------------------------|------------------------------------------------------------------------|
@@ -31,23 +31,30 @@ classoption:
 
 # Working Papers
 
-[Michuda, Aleksandr. "Rural-Urban Risk Sharing Networks: Uber Driver Labor Supply Responses To Shocks In Uganda" (2022)](https://drive.google.com/file/d/1aP--t1ORRbW_B4dlGgwW9bvCYBZhaVjZ/view?usp=sharing)
+[Michuda, Aleksandr, Cristina Chiarella, Oscar Barriga-Cabanillas, and Juan Sebastian Correa. "Genetic Dilution erodes productivity: Exploring farmers’ low adoption levels of improved maize in Ethiopia." (2022)](https://drive.google.com/file/d/1sqC0W1mUMzPzQreimT22qnqsnNlIj3bc/view?usp=sharing)
+
+[Michuda, Aleksandr, and Michael Kevane. "Classification into ethnic groups in Burkina Faso using names and localities." (2022)](https://drive.google.com/file/d/1ZCS0c89GkS4hio5WEUrMSnqJ1FYeMd0V/view?usp=sharing)
+
+[Doan, Miki Khanh, Aleksandr Michuda, Heng Zhu, Anubhab Gupta, and Binoy Majumder. "Livelihood Strategies in a Climate-change Vulnerable Region." (2022)](https://scholar.google.com/scholar_url?url=https://ageconsearch.umn.edu/record/322365/files/24195.pdf&hl=en&sa=T&oi=gsb-gga&ct=res&cd=2&d=12962046704729585600&ei=7e1vY4C5MIqUy9YP-OmKyAQ&scisig=AAGBfm2aaJtfS_KnDh5hRc47a4cZxX41aw)
+
+[Michuda, Aleksandr. "Rural-Urban Risk Sharing Networks: Uber Driver Labor Supply Responses To Shocks In Uganda." (2022)](https://drive.google.com/file/d/14VANz8V45C6bIX1d4__IMmOn5xNJM5a7/view?usp=sharing)
+
+[Bird, Samuel S.; Michuda, Aleksandr. "Measuring Ethnicity and Estimating its Effects on Voting at Scale: Evidence from Uganda." (2022)](https://drive.google.com/file/d/1Tdmr2_4DCSXIt_Q7tq1omglsgn249VgE/view?usp=sharing)
 
 [Tjernström, Emilia, Dalia Ghanem, Oscar Barriga Cabanillas, Travis J. Lybbert, Jeffrey D. Michler, and Aleksandr Michuda. "A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption." (2021)](https://emiliatjernstrom.com/files/TGBLMM2020.pdf)
 
-[Bird, Samuel S.; Michuda, Aleksandr. "Measuring Ethnicity and Estimating its Effects on Voting at Scale: Evidence from Uganda" (2022)](https://drive.google.com/file/d/1Tdmr2_4DCSXIt_Q7tq1omglsgn249VgE/view?usp=sharing)
-
-[Michuda, Aleksandr, Rachael E. Goodhue, Krishna V. Subbarao, and Daniel Chellemi. "Evaluating a Systems Approach to Suppressive Crop Rotations in Strawberry Production." (2019).](https://ageconsearch.umn.edu/record/291173/files/291173.pdf)
 
 # Publications
 
 ## Development Economics
 
+[Vosti, Stephen, Katherine Adams, Aleksandr Michuda, Hanqi Luo, Demewoz Woldegebreal, Victoria Chou,  Adrienne Clermont,  Ismael Teta,  Alex Ndjebayi, Jules Guintang,  Reina Engle-Stone. "Selecting Micronutrient Intervention Programs to Save Lives: Evidence From Cameroon"](https://academic.oup.com/cdn/article/5/Supplement_2/693/6292849) *Annals of the New York Academy of Sciences forthcoming*
+
 [Gupta, Anubhab, Heng Zhu, Miki Khanh Doan, Aleksandr Michuda, and Binoy Majumder. "Economic Impacts of the COVID-19 Lockdown in a Remittance‐dependent Region." American Journal of Agricultural Economics.](https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12178)
 
-[Vosti, Stephen, Katherine Adams, Aleksandr Michuda, Hanqi Luo, Demewoz Woldegebreal, Victoria Chou,  Adrienne Clermont,  Ismael Teta,  Alex Ndjebayi, Jules Guintang,  Reina Engle-Stone. "Selecting Micronutrient Intervention Programs to Save Lives: Evidence From Cameroon"](https://academic.oup.com/cdn/article/5/Supplement_2/693/6292849)
+## Applied Econometrics and Software
 
-## Applied Econometrics
+[Michuda, A., Ortiz-Becerra, K., Adams, K., Jarvis, M., Somda, H., Arnold, C., ... & Vosti, S. (2022). minimod: An Open Source Python Package to Evaluate the Cost Effectiveness of Micronutrient Intervention Programs. Current Developments in Nutrition, 6(Supplement_1), 776-776.](https://academic.oup.com/cdn/article/6/Supplement_1/776/6606969)
 
 [Cabanillas, Oscar Barriga, Jeffrey D. Michler, Aleksandr Michuda, and Emilia Tjernström. "Fitting and interpreting correlated random-coefficient models using Stata." Stata Journal 18, no. 1 (2018): 159-173.](https://journals.sagepub.com/doi/abs/10.1177/1536867X1801800109)
 
@@ -73,43 +80,16 @@ Ukrainian: Basic Knowledge
 
 # Technical Skills
 
-Python, GAMS, Stata, LaTeX, R, Github, Bash
+Python, GAMS, Stata, LaTeX, R, GitHub, Bash
 
-# Experience
+# Past Experience
 
-## Consultant - MINIMOD - Optimal Nutritional Interventions across Space and Time
-
-- January 2020 - July 2022
-- Advisor: Stephen Vosti
-- Responsible for developing a python package that finds the optimal set of nutritional interventions across space and time
-  - Using 24hr recall or household surveys
-- Estimated optimal interventions of effective coverage and lives saved in Cameroon
-- Developed dashboards for HKI (Hellen Keller International) to visualize Vitamin A intake in Kenya
-
-
-## Uber - Data Science Intern - Economics and Pricing
-
-- September 2019 - December 2019
-- Worked on causal inference in business facing team
-- Evaluated policies using regression discontinuity design, difference-in-differences and treatment effect estimation
-- Generated spatial and dynamic visualizations of driver behavior using Python and SQL
-
-## Catalyst - BITSS (Berkeley Initiative for Transparency in the Social Sciences)
-
-- July 2017 - Present
-- Organized workshops that teach reproducibility and transparency in
-    social sciences.
-- Taught Anonymization of data as well as replication techniques.
-- Taught Jupyter Notebooks portion of dynamic documents (R Markdown,
-    Jupyter Notebooks, Stata Markdown)
-
-## Research Assistant - UC Davis - Disease Suppressive Crop Rotations
-
-- July 2016 - September 2019
-- Advisor: Rachael E. Goodhue 
-- Responsible for data management and cleaning
-- Regression and ANOVA analysis using Stata and Jupyter Notebooks
-- Calibrating dynamic contract models in Python
+|                    |                                                                                     |
+|--------------------|-----------------------------------------------------------------|-------------------|
+|Consultant          | MINIMOD - Optimal Nutritional Interventions across Space and Time| January 2020 - July 2022|
+|Data Science Intern        | Uber|  September 2019 - December 2019 |
+|Catalyst          | BITSS (Berkeley Initiative for Transparency in the Social Sciences)|July 2017 - Present|
+|Research Assistant | UC Davis - Disease Suppressive Crop Rotations |     July 2016 - September 2019| 
 
 # Peer Review
 
@@ -120,6 +100,7 @@ Python, GAMS, Stata, LaTeX, R, Github, Bash
 
 |                                                                                      |
 |--------------------|-----------------------------------------------------------------|
+|NEUDC 2022          | Genetic Dilution erodes productivity: Exploring farmers’ low adoption levels of improved maize in Ethiopia|
 |Pacdev 2022         | Urban Labor Supply Responses to Rural Drought Shocks on Rideshare Platforms.|
 |NEUDC 2021          | Urban Labor Supply Responses to Rural Drought Shocks on Rideshare Platforms.|
 |BITSS RT2 2020      |Dynamic Documents with Jupyter Notebooks                                              | 
