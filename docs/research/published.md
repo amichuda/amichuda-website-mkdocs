@@ -22,7 +22,7 @@
 
 [PDF](https://journals.sagepub.com/doi/abs/10.1177/1536867X1801800109){: .md-button .md-button--primary}
 
-## Specialty Crops
+## Agricultural Economics
 
 ### The economic viability of suppressive crop rotations for the control of verticillium wilt in organic strawberry production.
 
