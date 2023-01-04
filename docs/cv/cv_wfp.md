@@ -107,9 +107,9 @@ Python, Stata, LaTeX, R, Github, Bash
 
 - July 2016 - September 2019
 - Advisor: Rachael E. Goodhue 
-- Responsible for data management and cleaning
+`- Responsible for data management and cleaning
 - Regression and ANOVA analysis using Stata and Jupyter Notebooks
-- Calibrating dynamic contract models in Python
+- Calibrating dynamic contract models in Python`
 
 # Peer Review
 
