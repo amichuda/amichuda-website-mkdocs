@@ -37,7 +37,7 @@ classoption:
 
 [Gupta, Anubhab, Heng Zhu, Miki Khanh Doan, Aleksandr Michuda, and Binoy Majumder. "Economic Impacts of the COVID-19 Lockdown in a Remittance‐dependent Region." *American Journal of Agricultural Economics.*](https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12178)
 
-[Tabetando, Rayner, Djomo Choumbou Raoul Fani, Catherine Ragasa, and Aleksandr Michuda. "Land Market Responses to Weather Shocks: Evidence from Rural Uganda and Kenya."] *European Review of Agricultural Economics forthcoming* 
+Tabetando, Rayner, Djomo Choumbou Raoul Fani, Catherine Ragasa, and Aleksandr Michuda. "Land Market Responses to Weather Shocks: Evidence from Rural Uganda and Kenya." *European Review of Agricultural Economics forthcoming* 
 
 -----
 
