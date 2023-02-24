@@ -31,7 +31,7 @@ classoption:
 
 # Publications and Working Papers
 
-## Development Economics
+## Development Economics 
 
 [Vosti, Stephen, Katherine Adams, Aleksandr Michuda, Hanqi Luo, Demewoz Woldegebreal, Victoria Chou,  Adrienne Clermont,  Ismael Teta,  Alex Ndjebayi, Jules Guintang,  Reina Engle-Stone. "Selecting Micronutrient Intervention Programs to Save Lives: Evidence From Cameroon"](https://academic.oup.com/cdn/article/5/Supplement_2/693/6292849) *Annals of the New York Academy of Sciences forthcoming*
 
