@@ -88,7 +88,7 @@ classoption:
 
 # Editorships
 
-|            |                           |                                 | 
+|            |                           |                                 |  
 |------------|---------------------------|---------------------------------| 
 |2023        | Special Issue Guest Editor| Harvard Data Science Review 5.3 | 
 |            | *Reinforcing Reproducibility And Replicability* |           |  
