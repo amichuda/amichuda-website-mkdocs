@@ -50,7 +50,7 @@ classoption:
 [Doan, Miki Khanh, Aleksandr Michuda, Heng Zhu, Anubhab Gupta, and Binoy Majumder. "Livelihood Strategies in a Climate-change Vulnerable Region." (2022)](https://scholar.google.com/scholar_url?url=https://ageconsearch.umn.edu/record/322365/files/24195.pdf&hl=en&sa=T&oi=gsb-gga&ct=res&cd=2&d=12962046704729585600&ei=7e1vY4C5MIqUy9YP-OmKyAQ&scisig=AAGBfm2aaJtfS_KnDh5hRc47a4cZxX41aw)
 
 
-# Political Economy
+## Political Economy
 
 ---
 
@@ -60,8 +60,6 @@ classoption:
 
 
 [Bird, Samuel S.; Michuda, Aleksandr. "Measuring Ethnicity and Estimating its Effects on Voting at Scale: Evidence from Uganda." (2022)](https://drive.google.com/file/d/1Tdmr2_4DCSXIt_Q7tq1omglsgn249VgE/view?usp=sharing)
-
-
 
 
 ## Applied Econometrics and Software
