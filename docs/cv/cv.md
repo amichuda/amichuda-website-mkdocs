@@ -59,7 +59,7 @@ classoption:
 [Michuda, Aleksandr, and Michael Kevane. "Classification into ethnic groups in Burkina Faso using names and localities." (2022)](https://drive.google.com/file/d/1ZCS0c89GkS4hio5WEUrMSnqJ1FYeMd0V/view?usp=sharing)
 
 
-[Bird, Samuel S.; Michuda, Aleksandr. "Measuring Ethnicity and Estimating its Effects on Voting at Scale: Evidence from Uganda." (2022)](https://drive.google.com/file/d/1Tdmr2_4DCSXIt_Q7tq1omglsgn249VgE/view?usp=sharing)
+[Bird, Samuel S.; Michuda, Aleksandr. "Measuring Ethnicity and Estimating its Effects on Voting at Scale: Evidence from Uganda." (2022)](https://drive.google.com/file/d/1Tdmr2_4DCSXIt_Q7tq1omglsgn249VgE/view?usp=sharing) 
 
 
 ## Applied Econometrics and Software
