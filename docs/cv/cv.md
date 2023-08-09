@@ -86,6 +86,18 @@ classoption:
 
 [Carter, Michael R., and Aleksandr Michuda. "The Distribution of Productive Assets and the Economics of Rural Development and Poverty Reduction." In The Palgrave Handbook of Development Economics, pp. 377-408. Palgrave Macmillan, Cham, 2019.](https://link.springer.com/chapter/10.1007/978-3-030-14000-7_11)
 
+# Editorships
+
+|                           |                    |                   | 
+|---------------------------|--------------------|-------------------|
+| Harvard Data Science Review 5.3| Special Issue Guest Editor |   2023     |
+| *Reinforcing Reproducibility And Replicability* |           |            |  
+
+# Peer Review
+
+*Journal of Agricultural and Food Economics*; *American Journal of Agricultural Economics*
+
+
 # Teaching
 
 |                           |                    |                   |                   |
@@ -123,11 +135,6 @@ Python, R, Stata, GitHub, Bash, GAMS
 |Data Science Intern        | Uber|  September 2019 - December 2019 |
 |Catalyst          | BITSS (Berkeley Initiative for Transparency in the Social Sciences)|July 2017 - Present|
 |Research Assistant | UC Davis - Disease Suppressive Crop Rotations |     July 2016 - September 2019| 
-
-# Peer Review
-
-- [Journal of Agricultural and Food Economics](https://agrifoodecon.springeropen.com/)
-- [American Journal of Agricultural Economics](https://onlinelibrary.wiley.com/journal/14678276)
 
 # Conferences
 
