@@ -88,10 +88,10 @@ classoption:
 
 # Editorships
 
-|                           |                    |                   | 
-|---------------------------|--------------------|-------------------| 
-| Harvard Data Science Review 5.3| Special Issue Guest Editor |   2023     |
-| *Reinforcing Reproducibility And Replicability* |           |            |  
+|            |                           |                                 | 
+|------------|---------------------------|---------------------------------| 
+|2023        | Special Issue Guest Editor| Harvard Data Science Review 5.3 | 
+|            | *Reinforcing Reproducibility And Replicability* |           |  
 
 # Peer Review
 
@@ -100,18 +100,18 @@ classoption:
 
 # Teaching
 
-|                           |                    |                   |                   |
-|---------------------------|--------------------|-------------------|-------------------|
-| Empirical Methods for Applied Economists|Instructor | Cornell University|Fall 2023     |
-| Undergraduate Econometrics| Instructor         |UC Davis           | Summer 2019       |
-| Microeconomics            | TA                 |UC Davis           | Fall 2018         |
+|                   |                           |                    |                        |
+|-------------------|---------------------------|--------------------|------------------------|
+ |Fall 2023         | Empirical Methods for Applied Economists|Instructor | Cornell University|
+ |Summer 2019       | Undergraduate Econometrics| Instructor         |UC Davis                |
+ |Fall 2018         | Microeconomics            | TA                 |UC Davis                |
 
 # Service
 
-|                           |                    | 
-|---------------------------|--------------------|
-| GAIN Mentor               | Summer 2023 - Present  |
-|Peer Mentor for STAAARS+   | Fall 2022 - Present        |
+|                        |                           | 
+|------------------------|---------------------------|
+| Summer 2023 - Present  | GAIN Mentor               |
+| Fall 2022 - Present    |Peer Mentor for STAAARS+   |
 
 
 # Languages and Skills
@@ -128,13 +128,13 @@ Python, R, Stata, GitHub, Bash, GAMS
 
 # Past Experience
 
-|                    |                                                                                     |
-|--------------------|-----------------------------------------------------------------|-------------------|
-| Short-Term Consultant | Using Data Fusion to Improve Human Capital Indicators        | April 2023 - Present |
-|Consultant          | MINIMOD - Optimal Nutritional Interventions across Space and Time| January 2020 - July 2022|
-|Data Science Intern        | Uber|  September 2019 - December 2019 |
-|Catalyst          | BITSS (Berkeley Initiative for Transparency in the Social Sciences)|July 2017 - Present|
-|Research Assistant | UC Davis - Disease Suppressive Crop Rotations |     July 2016 - September 2019| 
+|                                 |                       |                                                                    |
+|---------------------------------|-----------------------|--------------------------------------------------------------------|
+| April 2023 - Present            | Short-Term Consultant | Using Data Fusion to Improve Human Capital Indicators              |
+| January 2020 - July 2022        |Consultant             | MINIMOD - Optimal Nutritional Interventions across Space and Time  |
+|  September 2019 - December 2019 |Data Science Intern    | Uber                                                               |
+|July 2017 - Present              |Catalyst               | BITSS (Berkeley Initiative for Transparency in the Social Sciences)|
+|     July 2016 - September 2019  |Research Assistant     | UC Davis - Disease Suppressive Crop Rotations                      |
 
 # Conferences
 
