@@ -88,22 +88,39 @@ classoption:
 
 [Carter, Michael R., and Aleksandr Michuda. "The Distribution of Productive Assets and the Economics of Rural Development and Poverty Reduction." In The Palgrave Handbook of Development Economics, pp. 377-408. Palgrave Macmillan, Cham, 2019.](https://link.springer.com/chapter/10.1007/978-3-030-14000-7_11)
 
+# Teaching
+
+|                           |                    |                   |                   |
+|---------------------------|--------------------|-------------------|-------------------|
+| Empirical Methods for Applied Economists|Instructor | Cornell University|Fall 2023     |
+| Undergraduate Econometrics| Instructor         |UC Davis           | Summer 2019       |
+| Microeconomics            | TA                 |UC Davis           | Fall 2018         |
+
+# Service
+
+|                           |                    | 
+|---------------------------|--------------------|
+| GAIN Mentor               | Summer 2023 - Present  |
+|Peer Mentor for STAAARS+   | Fall 2022 - Present        |
+
+
 # Languages and Skills
 
 English: Fluent
 
 Russian: Fluent
 
-Ukrainian: Basic Knowledge
+Ukrainian: Conversational
 
 # Technical Skills
 
-Python, GAMS, Stata, LaTeX, R, GitHub, Bash
+Python, R, Stata, GitHub, Bash, GAMS
 
 # Past Experience
 
 |                    |                                                                                     |
 |--------------------|-----------------------------------------------------------------|-------------------|
+| Short-Term Consultant | Using Data Fusion to Improve Human Capital Indicators        | April 2023 - Present |
 |Consultant          | MINIMOD - Optimal Nutritional Interventions across Space and Time| January 2020 - July 2022|
 |Data Science Intern        | Uber|  September 2019 - December 2019 |
 |Catalyst          | BITSS (Berkeley Initiative for Transparency in the Social Sciences)|July 2017 - Present|
@@ -136,6 +153,8 @@ Python, GAMS, Stata, LaTeX, R, GitHub, Bash
 
 |                       |                                                            |
 |:----------------------|-----------------------------------------------------------:|
+|Summer 2023            | Azure Cloud Computing Grant                                |
+|                       | H-1B Policy and Women’s Labor Force Participation: A study of the Indian Marriage Market |
 |Summer 2022            | NSF OSP: 142678                                            |
 |                       | Conference on Reproducibility and Replicability in Economics and Social Sciences (CRRESS)| 
 |Summer 2022            | Dyson AEP Faculty Seed Grant                               |
