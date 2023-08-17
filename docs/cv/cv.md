@@ -130,6 +130,7 @@ Python, R, Stata, GitHub, Bash, GAMS
 
 |                                 |                       |                                                                    |
 |---------------------------------|-----------------------|--------------------------------------------------------------------|
+| July 2023 - August 2023         | Faculty Lead Mentor   | Breakthrough Tech AI                                               |
 | April 2023 - Present            | Short-Term Consultant | Using Data Fusion to Improve Human Capital Indicators              |
 | January 2020 - July 2022        |Consultant             | MINIMOD - Optimal Nutritional Interventions across Space and Time  |
 |  September 2019 - December 2019 |Data Science Intern    | Uber                                                               |
