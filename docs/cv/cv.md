@@ -116,7 +116,7 @@ classoption:
 
 # Languages and Skills
 
-English: Fluent
+English: Fluent 
 
 Russian: Fluent
 
