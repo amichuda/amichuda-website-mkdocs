@@ -33,7 +33,7 @@ classoption:
 
 ## Development Economics 
 
-[Vosti, Stephen, Katherine Adams, Aleksandr Michuda, Hanqi Luo, Demewoz Woldegebreal, Victoria Chou,  Adrienne Clermont,  Ismael Teta,  Alex Ndjebayi, Jules Guintang,  Reina Engle-Stone. "Selecting Micronutrient Intervention Programs to Save Lives: Evidence From Cameroon"](https://academic.oup.com/cdn/article/5/Supplement_2/693/6292849) *Annals of the New York Academy of Sciences forthcoming*
+[Vosti, Stephen A., Katherine P. Adams, Aleksandr Michuda, Karen Ortiz‐Becerra, Hanqi Luo, Demewoz Haile, Victoria B. Chou et al. "Impacts of micronutrient intervention programs on effective coverage and lives saved: Modeled evidence from Cameroon." Annals of the New York Academy of Sciences 1519, no. 1 (2023): 199-210.](https://nyaspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/nyas.14937) 
 
 [Gupta, Anubhab, Heng Zhu, Miki Khanh Doan, Aleksandr Michuda, and Binoy Majumder. "Economic Impacts of the COVID-19 Lockdown in a Remittance‐dependent Region." *American Journal of Agricultural Economics.*](https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12178)
 
@@ -45,7 +45,7 @@ classoption:
 
 [Michuda, Aleksandr, Cristina Chiarella, Oscar Barriga-Cabanillas, and Juan Sebastian Correa. "Genetic Dilution erodes productivity: Exploring farmers’ low adoption levels of improved maize in Ethiopia." (2022)](https://drive.google.com/file/d/1sqC0W1mUMzPzQreimT22qnqsnNlIj3bc/view?usp=sharing) 
 
-[Michuda, Aleksandr. "Rural-Urban Risk Sharing Networks: Uber Driver Labor Supply Responses To Shocks In Uganda." (2022)](https://drive.google.com/file/d/14VANz8V45C6bIX1d4__IMmOn5xNJM5a7/view?usp=sharing) *Submitted*
+[Michuda, Aleksandr. "Rural-Urban Risk Sharing Networks: Uber Driver Labor Supply Responses To Shocks In Uganda." (2022)](https://drive.google.com/file/d/14VANz8V45C6bIX1d4__IMmOn5xNJM5a7/view?usp=sharing) 
 
 [Doan, Miki Khanh, Aleksandr Michuda, Heng Zhu, Anubhab Gupta, and Binoy Majumder. "Livelihood Strategies in a Climate-change Vulnerable Region." (2022)](https://scholar.google.com/scholar_url?url=https://ageconsearch.umn.edu/record/322365/files/24195.pdf&hl=en&sa=T&oi=gsb-gga&ct=res&cd=2&d=12962046704729585600&ei=7e1vY4C5MIqUy9YP-OmKyAQ&scisig=AAGBfm2aaJtfS_KnDh5hRc47a4cZxX41aw)
 
@@ -72,7 +72,7 @@ classoption:
 
 *Working Papers*
 
-[Tjernström, Emilia, Dalia Ghanem, Oscar Barriga Cabanillas, Travis J. Lybbert, Jeffrey D. Michler, and Aleksandr Michuda. "A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption." (2021)](https://emiliatjernstrom.com/files/TGBLMM2020.pdf)
+[Tjernström, Emilia, Dalia Ghanem, Oscar Barriga Cabanillas, Travis J. Lybbert, Jeffrey D. Michler, and Aleksandr Michuda. "A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption." (2021)](https://emiliatjernstrom.com/files/TGBLMM2020.pdf) *Submitted*
 
 ## Agricultural Economics
 
