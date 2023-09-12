@@ -66,7 +66,7 @@ classoption:
 
 [Michuda, A., Ortiz-Becerra, K., Adams, K., Jarvis, M., Somda, H., Arnold, C., ... & Vosti, S. (2022). minimod: An Open Source Python Package to Evaluate the Cost Effectiveness of Micronutrient Intervention Programs. *Current Developments in Nutrition, 6(Supplement_1)*, 776-776.](https://academic.oup.com/cdn/article/6/Supplement_1/776/6606969)
 
-[Cabanillas, Oscar Barriga, Jeffrey D. Michler, Aleksandr Michuda, and Emilia Tjernström. "Fitting and interpreting correlated random-coefficient models using Stata." *Stata Journal* 18, no. 1 (2018): 159-173.](https://journals.sagepub.com/doi/abs/10.1177/1536867X1801800109)
+[Cabanillas, Oscar Barriga, Jeffrey D. Michler, Aleksandr Michuda, and Emilia Tjernström. "Fitting and interpreting correlated random-coefficient models using Stata." *Stata Journal* 18, no. 1 (2018): 159-173.](https://journals.sagepub.com/doi/abs/10.1177/1536867X1801800109) 
 
 ---
 
