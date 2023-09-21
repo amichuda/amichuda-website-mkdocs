@@ -45,10 +45,9 @@ classoption:
 
 [Bird, Samuel S.; Michuda, Aleksandr. "Ethnicity and voting at scale: Evidence from Uganda." (2023)](https://drive.google.com/file/d/1Tdmr2_4DCSXIt_Q7tq1omglsgn249VgE/view?usp=sharing) ***Submitted***
 
-*Using Data Fusion to Improve Human Capital Indicators* (with Chris Barrett, Elizabeth Tennant, Joanna Upton and David Newhouse)
+Chris Barrett, Aleksandr Michuda, David Newhouse, Elizabeth Tennant, and Joanna Upton. "Using Data Fusion to Improve Human Capital Indicators" (2023)
 
 [Michuda, Aleksandr. "Rural-Urban Risk Sharing Networks: Uber Driver Labor Supply Responses To Shocks In Uganda." (2023)](https://drive.google.com/file/d/14VANz8V45C6bIX1d4__IMmOn5xNJM5a7/view?usp=sharing) 
-
 
 [Michuda, Aleksandr, Cristina Chiarella, Oscar Barriga-Cabanillas, and Juan Sebastian Correa. "Genetic Dilution erodes productivity: Exploring farmers’ low adoption levels of improved maize in Ethiopia." (2022)](https://drive.google.com/file/d/1sqC0W1mUMzPzQreimT22qnqsnNlIj3bc/view?usp=sharing) 
 
