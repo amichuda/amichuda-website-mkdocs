@@ -43,18 +43,18 @@ classoption:
 
 *Working Papers*
 
-*Using Data Fusion to Improve Human Capital Indicators* (Chris Barrett, Elizabeth Tennant, Joanna Upton and David Newhouse)
+[Bird, Samuel S.; Michuda, Aleksandr. "Ethnicity and voting at scale: Evidence from Uganda." (2023)](https://drive.google.com/file/d/1Tdmr2_4DCSXIt_Q7tq1omglsgn249VgE/view?usp=sharing) ***Submitted***
+
+*Using Data Fusion to Improve Human Capital Indicators* (with Chris Barrett, Elizabeth Tennant, Joanna Upton and David Newhouse)
 
 [Michuda, Aleksandr. "Rural-Urban Risk Sharing Networks: Uber Driver Labor Supply Responses To Shocks In Uganda." (2023)](https://drive.google.com/file/d/14VANz8V45C6bIX1d4__IMmOn5xNJM5a7/view?usp=sharing) 
 
-[Bird, Samuel S.; Michuda, Aleksandr. "Ethnicity and voting at scale: Evidence from Uganda." (2023)](https://drive.google.com/file/d/1Tdmr2_4DCSXIt_Q7tq1omglsgn249VgE/view?usp=sharing) ***Submitted***
 
 [Michuda, Aleksandr, Cristina Chiarella, Oscar Barriga-Cabanillas, and Juan Sebastian Correa. "Genetic Dilution erodes productivity: Exploring farmers’ low adoption levels of improved maize in Ethiopia." (2022)](https://drive.google.com/file/d/1sqC0W1mUMzPzQreimT22qnqsnNlIj3bc/view?usp=sharing) 
 
 [Doan, Miki Khanh, Aleksandr Michuda, Heng Zhu, Anubhab Gupta, and Binoy Majumder. "Livelihood Strategies in a Climate-change Vulnerable Region." (2022)](https://ageconsearch.umn.edu/record/322365/files/24195.pdf&hl=en&sa=T&oi=gsb-gga&ct=res&cd=2&d=12962046704729585600&ei=7e1vY4C5MIqUy9YP-OmKyAQ&scisig=AAGBfm2aaJtfS_KnDh5hRc47a4cZxX41aw)
 
 [Michuda, Aleksandr, and Michael Kevane. "Classification into ethnic groups in Burkina Faso using names and localities." (2022)](https://drive.google.com/file/d/1ZCS0c89GkS4hio5WEUrMSnqJ1FYeMd0V/view?usp=sharing)
-
 
 ## Applied Econometrics and Software
 
