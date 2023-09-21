@@ -43,23 +43,17 @@ classoption:
 
 *Working Papers*
 
+*Using Data Fusion to Improve Human Capital Indicators* (Chris Barrett, Elizabeth Tennant, Joanna Upton and David Newhouse)
+
+[Michuda, Aleksandr. "Rural-Urban Risk Sharing Networks: Uber Driver Labor Supply Responses To Shocks In Uganda." (2023)](https://drive.google.com/file/d/14VANz8V45C6bIX1d4__IMmOn5xNJM5a7/view?usp=sharing) 
+
+[Bird, Samuel S.; Michuda, Aleksandr. "Ethnicity and voting at scale: Evidence from Uganda." (2023)](https://drive.google.com/file/d/1Tdmr2_4DCSXIt_Q7tq1omglsgn249VgE/view?usp=sharing) ***Submitted***
+
 [Michuda, Aleksandr, Cristina Chiarella, Oscar Barriga-Cabanillas, and Juan Sebastian Correa. "Genetic Dilution erodes productivity: Exploring farmers’ low adoption levels of improved maize in Ethiopia." (2022)](https://drive.google.com/file/d/1sqC0W1mUMzPzQreimT22qnqsnNlIj3bc/view?usp=sharing) 
 
-[Michuda, Aleksandr. "Rural-Urban Risk Sharing Networks: Uber Driver Labor Supply Responses To Shocks In Uganda." (2022)](https://drive.google.com/file/d/14VANz8V45C6bIX1d4__IMmOn5xNJM5a7/view?usp=sharing) 
-
-[Doan, Miki Khanh, Aleksandr Michuda, Heng Zhu, Anubhab Gupta, and Binoy Majumder. "Livelihood Strategies in a Climate-change Vulnerable Region." (2022)](https://scholar.google.com/scholar_url?url=https://ageconsearch.umn.edu/record/322365/files/24195.pdf&hl=en&sa=T&oi=gsb-gga&ct=res&cd=2&d=12962046704729585600&ei=7e1vY4C5MIqUy9YP-OmKyAQ&scisig=AAGBfm2aaJtfS_KnDh5hRc47a4cZxX41aw)
-
-
-## Political Economy
-
----
-
-*Working Papers*
+[Doan, Miki Khanh, Aleksandr Michuda, Heng Zhu, Anubhab Gupta, and Binoy Majumder. "Livelihood Strategies in a Climate-change Vulnerable Region." (2022)](https://ageconsearch.umn.edu/record/322365/files/24195.pdf&hl=en&sa=T&oi=gsb-gga&ct=res&cd=2&d=12962046704729585600&ei=7e1vY4C5MIqUy9YP-OmKyAQ&scisig=AAGBfm2aaJtfS_KnDh5hRc47a4cZxX41aw)
 
 [Michuda, Aleksandr, and Michael Kevane. "Classification into ethnic groups in Burkina Faso using names and localities." (2022)](https://drive.google.com/file/d/1ZCS0c89GkS4hio5WEUrMSnqJ1FYeMd0V/view?usp=sharing)
-
-
-[Bird, Samuel S.; Michuda, Aleksandr. "Measuring Ethnicity and Estimating its Effects on Voting at Scale: Evidence from Uganda." (2022)](https://drive.google.com/file/d/1Tdmr2_4DCSXIt_Q7tq1omglsgn249VgE/view?usp=sharing) 
 
 
 ## Applied Econometrics and Software
@@ -72,7 +66,7 @@ classoption:
 
 *Working Papers*
 
-[Tjernström, Emilia, Dalia Ghanem, Oscar Barriga Cabanillas, Travis J. Lybbert, Jeffrey D. Michler, and Aleksandr Michuda. "A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption." (2021)](https://emiliatjernstrom.com/files/TGBLMM2020.pdf) *Submitted*
+[Tjernström, Emilia, Dalia Ghanem, Oscar Barriga Cabanillas, Travis J. Lybbert, Jeffrey D. Michler, and Aleksandr Michuda. "A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption." (2021)](https://emiliatjernstrom.com/files/TGBLMM2020.pdf) ***Submitted***
 
 ## Agricultural Economics
 
@@ -95,7 +89,7 @@ classoption:
 
 # Peer Review
 
-*Journal of Agricultural and Food Economics*; *American Journal of Agricultural Economics*
+*Journal of Agricultural and Food Economics*; *American Journal of Agricultural Economics*; *Socio-Economic Planning Sciences*
 
 
 # Teaching
@@ -110,7 +104,7 @@ classoption:
 
 |                        |                           | 
 |------------------------|---------------------------|
-| Summer 2023 - Present  | GAIN Mentor               |
+| Summer 2023 - Present  |GAIN Mentor               |
 | Fall 2022 - Present    |Peer Mentor for STAAARS+   |
 
 
