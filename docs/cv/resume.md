@@ -6,15 +6,12 @@ classoption:
 
 # Aleksandr Michuda
 
-**Address**: New York, NY
+|                         |                                                        |
+|-------------------------|--------------------------------------------------------|
+|**Address**: New York, NY| **Email**: [\textcolor{blue}{am2497@cornell.edu}](mailto:am2497@cornell.edu)|
+|**Github**: [\textcolor{blue}{https://github.com/amichuda}](https://github.com/amichuda) |**Personal Website**: [\textcolor{blue}{https://amichuda.github.io/}](https://amichuda.github.io/)|
 
-**Email**: [\textcolor{blue}{am2497@cornell.edu}](mailto:am2497@cornell.edu)
-
-**Github**: [\textcolor{blue}{https://github.com/amichuda}](https://github.com/amichuda)
-
-**Personal Website**: [\textcolor{blue}{https://amichuda.github.io/}](https://amichuda.github.io/)
-
-# Professional Summary
+# Summary
 
 Economist with a passion for causal inference done rigorously and in conjunction with machine learning predictions. Adaptable and able to work with team members with different perspectives. Experience with presenting technical results to non-technical audiences.
 
@@ -43,7 +40,7 @@ Ukrainian: Conversational
 
 ## Cornell University - Assistant Research Professor - Center for Data Science for Enterprise and Society
 
-- August 2021 - Now
+- August 2021 - Present
 - Research on the entrance of ride-share platforms in developing countries
 - Engage with corporate partners through data user agreements (DUAs) to conduct analysis with restricted data
 - Collaborate with faculty from Dyson Business School and the Information School
@@ -81,14 +78,18 @@ Ukrainian: Conversational
 
 \normalsize
 
-# Relevant Work
+# Selected Works
 
-[Michuda, Aleksandr. "Urban Labor Supply Responses to Weather Shocks for Ugandan Uber Drivers."](https://drive.google.com/file/d/1kG5cYX5SrpDZyHv1vpushXWrzd6UmrU6/view?usp=sharing)  
+[Michuda, Aleksandr. "Urban Labor Supply Responses to Weather Shocks for Ugandan Uber Drivers."](https://drive.google.com/file/d/1iO20c-6p1hq087MmM7LuYAY_SbHGal57/view?usp=sharing)  
 
-[Tjernström, Emilia, Dalia Ghanem, Oscar Barriga Cabanillas, Travis J. Lybbert, Jeffrey D. Michler, and Aleksandr Michuda. "A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption."](https://emiliatjernstrom.com/files/TGBLMM2020.pdf)
+[Bird, Samuel S.; Michuda, Aleksandr. "Ethnicity and voting at scale: Evidence from Uganda." (2023)](https://drive.google.com/file/d/1kmSawentCvzDflencjPwHJ-3r3_tzNOV/view?usp=sharing) ***Submitted***
+
+[Tjernström, Emilia, Dalia Ghanem, Oscar Barriga Cabanillas, Travis J. Lybbert, Jeffrey D. Michler, and Aleksandr Michuda. "A Group Random Coefficient Approach to Modeling Heterogeneous Returns to Technology Adoption."](https://emiliatjernstrom.com/uploads/TGBLMM_2022.pdf)
 
 [Gupta, Anubhab, Heng Zhu, Miki Khanh Doan, Aleksandr Michuda, and Binoy Majumder. "Economic Impacts of the COVID-19 Lockdown in a Remittance‐dependent Region." American Journal of Agricultural Economics.](https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12178)
 
 [Cabanillas, Oscar Barriga, Jeffrey D. Michler, Aleksandr Michuda, and Emilia Tjernström. "Fitting and interpreting correlated random-coefficient models using Stata." Stata Journal 18, no. 1 (2018): 159-173.](https://journals.sagepub.com/doi/abs/10.1177/1536867X1801800109)
+
+Link to full publication list can be found [**here**](https://amichuda.github.io/cv/aleksandr_michuda_cv.pdf)
 
 
