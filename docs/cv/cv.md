@@ -33,7 +33,7 @@ classoption:
 
 [Tabetando, Rayner, Djomo Choumbou Raoul Fani, Catherine Ragasa, and Aleksandr Michuda. "Land market responses to weather shocks: evidence from rural Uganda and Kenya." European Review of Agricultural Economics 50, no. 3 (2023): 954-977.](https://academic.oup.com/erae/advance-article-abstract/doi/10.1093/erae/jbad005/7074081)
 
-[Vosti, Stephen A., Katherine P. Adams, Aleksandr Michuda, Karen Ortiz-Becerra, Hanqi Luo, Demewoz Haile, Victoria B. Chou et al. "Impacts of micronutrient intervention programs on effective coverage and lives saved: Modeled evidence from Cameroon." Annals of the New York Academy of Sciences 1519, no. 1 (2023): 199-210.](https://nyaspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/nyas.14937) 
+[Vosti, Stephen A., Katherine P. Adams, Aleksandr Michuda, Karen Ortiz‐Becerra, Hanqi Luo, Demewoz Haile, Victoria B. Chou et al. "Impacts of micronutrient intervention programs on effective coverage and lives saved: Modeled evidence from Cameroon." Annals of the New York Academy of Sciences 1519, no. 1 (2023): 199-210.](https://nyaspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/nyas.14937) 
 
 [Gupta, Anubhab, Heng Zhu, Miki Khanh Doan, Aleksandr Michuda, and Binoy Majumder. "Economic impacts of the COVID− 19 lockdown in a remittance‐dependent region." American Journal of Agricultural Economics 103, no. 2 (2021): 466-485.](https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12178)
 
@@ -52,7 +52,7 @@ classoption:
 
 [Michuda, Aleksandr. "Rural-Urban Risk Sharing Networks: Uber Driver Labor Supply Responses To Shocks In Uganda." (2023)](https://drive.google.com/file/d/14VANz8V45C6bIX1d4__IMmOn5xNJM5a7/view?usp=sharing) 
 
-[Michuda, Aleksandr, Cristina Chiarella, Oscar Barriga-Cabanillas, and Juan Sebastian Correa. "Genetic Dilution erodes productivity: Exploring farmers’ low adoption levels of improved maize in Ethiopia." (2022)](https://drive.google.com/file/d/1sqC0W1mUMzPzQreimT22qnqsnNlIj3bc/view?usp=sharing) 
+[Michuda, Aleksandr, Cristina Chiarella, Oscar Barriga-Cabanillas, and Juan Sebastian Correa. "Genetic Dilution erodes productivity: Exploring farmers' low adoption levels of improved maize in Ethiopia." (2022)](https://drive.google.com/file/d/1sqC0W1mUMzPzQreimT22qnqsnNlIj3bc/view?usp=sharing) 
 
 [Doan, Miki Khanh, Aleksandr Michuda, Heng Zhu, Anubhab Gupta, and Binoy Majumder. "Livelihood Strategies in a Climate-change Vulnerable Region." (2022)](https://ageconsearch.umn.edu/record/322365/files/24195.pdf&hl=en&sa=T&oi=gsb-gga&ct=res&cd=2&d=12962046704729585600&ei=7e1vY4C5MIqUy9YP-OmKyAQ&scisig=AAGBfm2aaJtfS_KnDh5hRc47a4cZxX41aw)
 
@@ -63,7 +63,7 @@ classoption:
 
 Chris Barrett, Aleksandr Michuda, David Newhouse, Elizabeth Tennant, and Joanna Upton. "Using Data Fusion to Improve Human Capital Indicators" (2023)
 
-Aleksandr Michuda, Abhilasha Sahay, Nivedhitha Subramanian. "H-1B Policy and Women’s Labor Force Participation: A study of the Indian Marriage Market" (2023)
+Aleksandr Michuda, Abhilasha Sahay, Nivedhitha Subramanian. "H-1B Policy and Women's Labor Force Participation: A study of the Indian Marriage Market" (2023)
 
 # Book Chapters and Other Publications
 
@@ -127,7 +127,7 @@ Python, R, Stata, GitHub, Bash, GAMS
 
 |                     |                                                                                                            |
 | ------------------- | ---------------------------------------------------------------------------------------------------------- |
-| NEUDC 2022          | Genetic Dilution erodes productivity: Exploring farmers’ low adoption levels of improved maize in Ethiopia |
+| NEUDC 2022          | Genetic Dilution erodes productivity: Exploring farmers' low adoption levels of improved maize in Ethiopia |
 | Pacdev 2022         | Urban Labor Supply Responses to Rural Drought Shocks on Rideshare Platforms.                               |
 | NEUDC 2021          | Urban Labor Supply Responses to Rural Drought Shocks on Rideshare Platforms.                               |
 | BITSS RT2 2020      | Dynamic Documents with Jupyter Notebooks                                                                   |
@@ -146,7 +146,7 @@ Python, R, Stata, GitHub, Bash, GAMS
 |                         |                                                                                                                            |
 | :---------------------- | -------------------------------------------------------------------------------------------------------------------------: |
 | Summer 2023             |                                                                                                Azure Cloud Computing Grant |
-|                         |                                   H-1B Policy and Women’s Labor Force Participation: A study of the Indian Marriage Market |
+|                         |                                   H-1B Policy and Women's Labor Force Participation: A study of the Indian Marriage Market |
 | Summer 2022             |                                                                                                            NSF OSP: 142678 |
 |                         |                                  Conference on Reproducibility and Replicability in Economics and Social Sciences (CRRESS) |
 | Summer 2022             |                                                                                               Dyson AEP Faculty Seed Grant |
