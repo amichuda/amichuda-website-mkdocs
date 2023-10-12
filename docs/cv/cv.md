@@ -35,7 +35,7 @@ classoption:
 
 [Vosti, Stephen A., Katherine P. Adams, Aleksandr Michuda, Karen Ortiz‐Becerra, Hanqi Luo, Demewoz Haile, Victoria B. Chou et al. "Impacts of micronutrient intervention programs on effective coverage and lives saved: Modeled evidence from Cameroon." Annals of the New York Academy of Sciences 1519, no. 1 (2023): 199-210.](https://nyaspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/nyas.14937) 
 
-[Gupta, Anubhab, Heng Zhu, Miki Khanh Doan, Aleksandr Michuda, and Binoy Majumder. "Economic impacts of the COVID− 19 lockdown in a remittance‐dependent region." American Journal of Agricultural Economics 103, no. 2 (2021): 466-485.](https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12178)
+[Gupta, Anubhab, Heng Zhu, Miki Khanh Doan, Aleksandr Michuda, and Binoy Majumder. "Economic impacts of the COVID− 19 lockdown in a remittance-dependent region." American Journal of Agricultural Economics 103, no. 2 (2021): 466-485.](https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12178)
 
 [Michuda, Aleksandr, Rachael E. Goodhue, Mark Hoffmann, and Steven A. Fennimore. "Predicting Net Returns of Organic and Conventional Strawberry Following Soil Disinfestation with Steam or Steam Plus Additives." *Agronomy* 11, no. 1 (2021): 149.](https://www.mdpi.com/2073-4395/11/1/149)
 
