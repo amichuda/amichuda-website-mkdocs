@@ -18,16 +18,16 @@ classoption:
 
 |       |                              |                                                                        |
 | ----- | ---------------------------- | ---------------------------------------------------------------------- |
-| 2021+ | Assistant Research Professor | Center for Data Science for Enterprise and Society, Cornell University |
+| 2021-present | Assistant Research Professor | Center for Data Science for Enterprise and Society, Cornell University |
 
 
 # Education
 
-|      |                                               |       |
-| ---- | --------------------------------------------- | ----- |
-| 2021 | Agricultural and Resource Economics, UC Davis | PhD   |
-| 2014 | Economics CUNY Hunter College                 | BA/MA |
-| 2014 | Philosophy CUNY Hunter College                | BA    |
+|      |                                                                                             |       |
+| ---- | --------------------------------------------------------------------------------------------| ----- |
+| 2021 | Agricultural and Resource Economics, UC Davis                                               | PhD   |
+| 2014 | Economics CUNY Hunter College                                                               | BA/MA |
+| 2014 | Philosophy CUNY Hunter College                                                              | BA    |
 
 # Publications
 
