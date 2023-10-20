@@ -16,9 +16,9 @@ classoption:
 
 # Appointments
 
-|              |                              |                                                                        |
-| :------------ | ----------------------------: | ----------------------------------------------------------------------: |
-| 2021-present | Assistant Research Professor | Center for Data Science for Enterprise and Society, Cornell University |
+|              |                              |                                                                        |   |
+|:------------ | ----------------------------:| ----------------------------------------------------------------------:|---|
+| 2021-present | Assistant Research Professor | Center for Data Science for Enterprise and Society, Cornell University |   |
                                             
 
 
