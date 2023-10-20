@@ -17,7 +17,7 @@ classoption:
 # Appointments
 
 |       |                              |                                                                        |
-| ----- | ---------------------------- | ---------------------------------------------------------------------- |
+| :----- | :----------------------------: | ----------------------------------------------------------------------: |
 | 2021-present | Assistant Research Professor | Center for Data Science for Enterprise and Society, Cornell University |
 
 
@@ -136,7 +136,7 @@ Python, R, Stata, GitHub, Bash, GAMS
 | September 2019 - December 2019 | Uber Inc.              | Data Science Intern   | Pricing and Demand                                                |
 | July 2016 - September 2019     | UC Davis               | Research Assistant    | Disease Suppressive Crop Rotations                                |
 
-# Conferences
+# Conferences/Presentations
 
 |                     |                                                                                                            |
 | ------------------- | ---------------------------------------------------------------------------------------------------------- |
