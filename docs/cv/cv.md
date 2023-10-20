@@ -16,18 +16,19 @@ classoption:
 
 # Appointments
 
-|       |                              |                                                                        |
-| ----- | ---------------------------- | ---------------------------------------------------------------------- |
-| 2021-present | Assistant Research Professor | Center for Data Science for Enterprise and Society, Cornell University |
+|              |                              |                                                                        |
+| ------------ | ---------------------------- | ---------------------------------------------------------------------- |
+| 2021-present | Assistant Research Professor | Center for Data Science for Enterprise and Society,                    |
+|              |                              | Cornell University                                                      |
 
 
 # Education
 
-|      |                                                                                             |       |
-| :---- | --------------------------------------------------------------------------------------------:| -----: |
-| 2021 | Agricultural and Resource Economics, UC Davis                                               | PhD   |
-| 2014 | Economics CUNY Hunter College                                                               | BA/MA |
-| 2014 | Philosophy CUNY Hunter College                                                              | BA    |
+|      |                                               |       |
+| :--- | --------------------------------------------: | ----: |
+| 2021 | Agricultural and Resource Economics, UC Davis |   PhD |
+| 2014 |                 Economics CUNY Hunter College | BA/MA |
+| 2014 |                Philosophy CUNY Hunter College |    BA |
 
 # Publications
 
@@ -112,6 +113,8 @@ Karen Ortiz-Becerra, Adriana Molina Garzon and Aleksandr Michuda. "UAVs and Emer
 | --------------------- | ------------------- |
 | Summer 2023 - Present | GAIN Mentor         |
 | Fall 2022 - Present   | Mentor for STAAARS+ |
+| Fall 2017 - Present   | BITSS Catalyst Grant |
+| 2017                  | Graduate Student Association President |
 
 
 # Languages and Skills
@@ -138,18 +141,18 @@ Python, R, Stata, GitHub, Bash, GAMS
 
 # Conferences/Presentations
 
-|                     |                                                                                                            |
-| ------------------- | ---------------------------------------------------------------------------------------------------------- |
-| NEUDC 2022          | Genetic Dilution erodes productivity: Exploring farmers' low adoption levels of improved maize in Ethiopia |
-| Pacdev 2022         | Urban Labor Supply Responses to Rural Drought Shocks on Rideshare Platforms.                               |
-| NEUDC 2021          | Urban Labor Supply Responses to Rural Drought Shocks on Rideshare Platforms.                               |
-| BITSS RT2 2020      | Dynamic Documents with Jupyter Notebooks                                                                   |
-| AAEA Meetings 2019  | Evaluating a Systems Approach to Suppressive Crop Rotations in Strawberry Production                       |
-| AAEA Meetings 2018  | Political Contributions and the Case of South African Land Reform                                          |
-| AAEA Meetings 2017  | The Economic Viability of Suppressive Crop Rotations in Organic Strawberry Production                      |
-|                     | Empirically Estimating the Impact of Weather on Agriculture                                                |
-| EEA Conference 2014 | The Russian Mir and Agrarian Transition                                                                    |
-| CUNY's UGRC 2013    | Large Frontiers and Coercion: An Economic Perspective                                                      |
+|                  |                                                                                                            |
+| ---------------- | ---------------------------------------------------------------------------------------------------------- |
+| NEUDC 2022       | Genetic Dilution erodes productivity: Exploring farmers' low adoption levels of improved maize in Ethiopia |
+| PACDEV 2022      | Urban Labor Supply Responses to Rural Drought Shocks on Rideshare Platforms.                               |
+| NEUDC 2021       | Urban Labor Supply Responses to Rural Drought Shocks on Rideshare Platforms.                               |
+| BITSS RT2 2020   | Dynamic Documents with Jupyter Notebooks                                                                   |
+| AAEA 2019        | Evaluating a Systems Approach to Suppressive Crop Rotations in Strawberry Production                       |
+| AAEA 2018        | Political Contributions and the Case of South African Land Reform                                          |
+| AAEA 2017        | The Economic Viability of Suppressive Crop Rotations in Organic Strawberry Production                      |
+|                  | Empirically Estimating the Impact of Weather on Agriculture                                                |
+| EEA 2014         | The Russian Mir and Agrarian Transition                                                                    |
+| CUNY's UGRC 2013 | Large Frontiers and Coercion: An Economic Perspective                                                      |
 
 
 # Scholarships and Awards
@@ -169,6 +172,5 @@ Python, R, Stata, GitHub, Bash, GAMS
 | Winter 2021             |                                                          (CGIAR) SPIA small grant for agricultural innovations in Ethiopia |
 | Fall 2014 - Spring 2016 |                                                                                                       Steindler Fellowship |
 | Spring 2017             |                                                                                                      Henry A. Jastro Grant |
-| Fall 2017               |                                                                                                       BITSS Catalyst Grant |
-| 2017                    |                                                                                     Graduate Student Association President |
+
 
