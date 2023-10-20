@@ -26,9 +26,9 @@ classoption:
 
 |      |                                               |      |
 | --- | -----------------------------------------------| ---- |
-| 2021 | Agricultural and Resource Economics, UC Davis |   PhD | \hfill
-| 2014 |                 Economics CUNY Hunter College | BA/MA | \hfill
-| 2014 |                Philosophy CUNY Hunter College |    BA | \hfill
+| 2021 | Agricultural and Resource Economics, UC Davis |   PhD | 
+| 2014 |                 Economics CUNY Hunter College | BA/MA | 
+| 2014 |                Philosophy CUNY Hunter College |    BA | 
 
 # Publications
 
