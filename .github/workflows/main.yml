@@ -25,7 +25,7 @@ jobs:
           args: >-
             --from=markdown+raw_attribute
             --to=latex
-            --output=docs/cv/aleksandr_michuda_cv.tex
+            --output=docs/cv/aleksandr_michuda_cv.pdf
             --include-in-header=docs/cv/template.tex
             docs/cv/cv.md
       - name: Convert industry resume with pandoc

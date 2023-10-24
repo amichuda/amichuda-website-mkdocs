@@ -2,9 +2,13 @@
 documentclass: article
 classoption:
   - 11pt
+format:
+  pdf:
+    colorlinks: false
 ---
 
 # Aleksandr Michuda
+
 
 **Email**: [am2497@cornell.edu](mailto:am2497@cornell.edu)
 
@@ -23,12 +27,13 @@ classoption:
 
 
 # Education
+|      |                                               |                                        |
+| ---  | :-----------------------------------------------:| :----                                  |
+| 2021 | Agricultural and Resource Economics, UC Davis |   PhD                                  | 
+| 2014 |                 Economics CUNY Hunter College | BA/MA                                  | 
+| 2014 |                Philosophy CUNY Hunter College |    BA                                  | 
 
-|      |                                               |      |
-| --- | -----------------------------------------------| ---- |
-| 2021 | Agricultural and Resource Economics, UC Davis |   PhD | 
-| 2014 |                 Economics CUNY Hunter College | BA/MA | 
-| 2014 |                Philosophy CUNY Hunter College |    BA | 
+
 
 # Publications
 
@@ -109,12 +114,12 @@ Karen Ortiz-Becerra, Adriana Molina Garzon and Aleksandr Michuda. "UAVs and Emer
 
 # Service
 
-|                       |                     |
-| --------------------- | ------------------- |
-| Summer 2023 - Present | GAIN Mentor         |
-| Fall 2022 - Present   | Mentor for STAAARS+ |
-| Fall 2017 - Present   | BITSS Catalyst Grant |
-| 2017                  | Graduate Student Association President |
+|                                          |                     |
+|                    --------------------- | ------------------- |
+|                    Summer 2023 - Present | GAIN Mentor         |
+|                    Fall 2022 - Present   | Mentor for STAAARS+ |
+|                    Fall 2017 - Present   | BITSS Catalyst Grant |
+|                    2017                  | Graduate Student Association President |
 
 
 # Languages and Skills
